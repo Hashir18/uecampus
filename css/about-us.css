@@ -1818,7 +1818,7 @@
 /* Add responsive styles for phones */
 @media (max-width: 500px) {
   .about-us {
-    width: 100%;
+    width: 80%;
     overflow: hidden;
     padding: 0 15px;
     display: flex;

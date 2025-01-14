@@ -1,0 +1,868 @@
+/* screen - application-form-3 */
+
+.application-form-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 2214px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.application-form-3 .group-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: -207px;
+  min-height: 4906px;
+  width: 2684px;
+}
+
+.application-form-3 .overlap-group8 {
+  align-items: center;
+  background-color: var(--royal-purple);
+  display: flex;
+  height: 45px;
+  margin-right: 350.0px;
+  min-width: 1920px;
+  padding: 0 62px;
+}
+
+.application-form-3 .have-any-questions {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  min-height: 22px;
+  min-width: 195px;
+}
+
+.application-form-3 .email {
+  height: 25px;
+  margin-left: 34px;
+  width: 25px;
+}
+
+.application-form-3 .infouecampuscom {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 10px;
+  min-height: 22px;
+  min-width: 157px;
+}
+
+.application-form-3 .phone {
+  height: 25px;
+  margin-left: 21px;
+  width: 25px;
+}
+
+.application-form-3 .phone-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 11px;
+  min-height: 22px;
+  min-width: 128px;
+}
+
+.application-form-3 .overlap-group16 {
+  align-self: flex-start;
+  height: 443px;
+  margin-top: 5px;
+  position: relative;
+  width: 2333px;
+}
+
+.application-form-3 .overlap-group6 {
+  height: 443px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2333px;
+}
+
+.application-form-3 .x1-9d8512e0-removebg-preview-3 {
+  height: 83px;
+  left: 1077px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 180px;
+}
+
+.application-form-3 .rectangle-3866 {
+  background-color: var(--royal-purple);
+  height: 3px;
+  left: 207px;
+  position: absolute;
+  top: 87px;
+  width: 1920px;
+}
+
+.application-form-3 .group-453 {
+  height: 360px;
+  left: 207px;
+  position: absolute;
+  top: 83px;
+  width: 1920px;
+}
+
+.application-form-3 .application-form {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 121.5px;
+  position: absolute;
+  text-align: center;
+  top: 170px;
+  width: 2333px;
+}
+
+.application-form-3 .programs {
+  left: 269px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.application-form-3 .diplomas {
+  left: 415px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.application-form-3 .scholarships {
+  left: 711px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.application-form-3 .about-us {
+  left: 564px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.application-form-3 .login {
+  left: 1818px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.application-form-3 .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--bright-gray);
+  border-radius: 10px;
+  display: flex;
+  height: 49px;
+  left: 1905px;
+  min-width: 160px;
+  padding: 12px 28px;
+  position: absolute;
+  top: 18px;
+}
+
+.application-form-3 .apply-now {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.application-form-3 .sort-left {
+  height: 15px;
+  left: 367px;
+  position: absolute;
+  top: 35px;
+  width: 15px;
+}
+
+.application-form-3 .sort-left-1 {
+  left: 658px;
+}
+
+.application-form-3 .sort-left-2 {
+  left: 511px;
+}
+
+.application-form-3 .overlap-group-container {
+  align-items: flex-start;
+  background-color: var(--gallery);
+  display: flex;
+  gap: 33px;
+  height: 1081px;
+  margin-right: 350.0px;
+  min-width: 1920px;
+  padding: 151px 62px;
+}
+
+.application-form-3 .overlap-group10 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  flex-direction: column;
+  min-height: 649px;
+  padding: 40px 55px;
+  width: 585px;
+}
+
+.application-form-3 .were-here-for-you {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1px;
+  min-height: 29px;
+  width: 432px;
+}
+
+.application-form-3 .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/image-121@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  margin-top: 27px;
+  min-width: 474px;
+}
+
+.application-form-3 .overlap-group9 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  flex-direction: column;
+  gap: 39px;
+  min-height: 746px;
+  padding: 40px 68px;
+  width: 1178px;
+}
+
+.application-form-3 .setup-your-ue-campus-account {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 39px;
+}
+
+.application-form-3 .overlap-group-2 {
+  height: 571px;
+  position: relative;
+  width: 1033px;
+}
+
+.application-form-3 .rectangle-4491 {
+  border: 1px solid;
+  border-color: var(--bright-gray);
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 553px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  width: 1033px;
+}
+
+.application-form-3 .step-2-create-a-secure-password {
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+}
+
+.application-form-3 .rectangle-4508 {
+  background-color: var(--bright-gray);
+  border-radius: 10px;
+  height: 57px;
+  left: 42px;
+  position: absolute;
+  top: 424px;
+  width: 264px;
+}
+
+.application-form-3 .create-my-account {
+  left: 83px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 440px;
+  width: 183px;
+}
+
+.application-form-3 .rectangle-4495 {
+  background-color: var(--onyx);
+  height: 2px;
+  left: 42px;
+  position: absolute;
+  top: 158px;
+  width: 949px;
+}
+
+.application-form-3 .password {
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 122px;
+}
+
+.application-form-3 .rectangle-4499 {
+  background-color: var(--onyx);
+  height: 2px;
+  left: 42px;
+  position: absolute;
+  top: 244px;
+  width: 949px;
+}
+
+.application-form-3 .confirm-password {
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 208px;
+}
+
+.application-form-3 .should-consist-of-8-to-20-characters {
+  left: 77px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 274px;
+}
+
+.application-form-3 .blind {
+  height: 30px;
+  left: 961px;
+  position: absolute;
+  top: 123px;
+  width: 30px;
+}
+
+.application-form-3 .blind-1 {
+  height: 30px;
+  left: 961px;
+  position: absolute;
+  top: 209px;
+  width: 30px;
+}
+
+.application-form-3 .ellipse-804 {
+  top: 279px;
+}
+
+.application-form-3 .must-include-at-leas {
+  left: 77px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 298px;
+}
+
+.application-form-3 .ellipse-805 {
+  top: 303px;
+}
+
+.application-form-3 .must-contain-at-least-one-number {
+  left: 77px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 325px;
+}
+
+.application-form-3 .ellipse-806 {
+  top: 330px;
+}
+
+.application-form-3 .cannot-contain-any-spaces {
+  left: 77px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 352px;
+}
+
+.application-form-3 .ellipse-807 {
+  top: 357px;
+}
+
+.application-form-3 .overlap-group4 {
+  align-items: center;
+  background-color: var(--gallery);
+  display: flex;
+  flex-direction: column;
+  gap: 95px;
+  margin-right: 350.0px;
+  margin-top: 150px;
+  min-height: 490px;
+  width: 1920px;
+}
+
+.application-form-3 .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 73px;
+  min-width: 1796px;
+}
+
+.application-form-3 .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 95px;
+  height: 261px;
+  min-width: 1107px;
+}
+
+.application-form-3 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-height: 261px;
+  width: 864px;
+}
+
+.application-form-3 .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 187px;
+  min-width: 864px;
+}
+
+.application-form-3 .flex-col-1 {
+  align-self: flex-end;
+  gap: 15px;
+  min-height: 186px;
+  width: 497px;
+}
+
+.application-form-3 .at-ue-campus-we-unde {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 88px;
+  width: 497px;
+}
+
+.application-form-3 .flex-col-2 {
+  margin-left: 74px;
+  min-height: 170px;
+  width: 76px;
+}
+
+.application-form-3 .courses {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 76px;
+}
+
+.application-form-3 .bachelors-masters-dba {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 19px;
+  min-height: 66px;
+}
+
+.application-form-3 .apply {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 35px;
+  min-height: 25px;
+  width: 76px;
+}
+
+.application-form-3 .flex-col-3 {
+  margin-left: 95px;
+  margin-top: 2px;
+  min-height: 170px;
+  width: 122px;
+}
+
+.application-form-3 .programs-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 92px;
+}
+
+.application-form-3 .ppa-walsh-college-diploma {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 19px;
+  min-height: 66px;
+}
+
+.application-form-3 .online-study {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 35px;
+  min-height: 25px;
+  width: 122px;
+}
+
+.application-form-3 .flex-row-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 72px;
+  min-width: 857px;
+}
+
+.application-form-3 .overlap-group13 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.application-form-3 .you-tube {
+  height: 25px;
+  width: 25px;
+}
+
+.application-form-3 .linked-in-circled {
+  height: 50px;
+  margin-left: 10px;
+  width: 50px;
+}
+
+.application-form-3 .overlap-group12 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.application-form-3 .tik-tok {
+  height: 25px;
+  width: 25px;
+}
+
+.application-form-3 .overlap-group14 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  margin-left: 15px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.application-form-3 .twitter-x {
+  height: 25px;
+  width: 25px;
+}
+
+.application-form-3 .instagram-circle {
+  height: 50px;
+  margin-left: 12px;
+  width: 50px;
+}
+
+.application-form-3 .facebook {
+  height: 50px;
+  margin-left: 7px;
+  width: 50px;
+}
+
+.application-form-3 .fees-apply-now {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 247px;
+  min-height: 44px;
+  min-width: 81px;
+}
+
+.application-form-3 .online-degrees-online-lms {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 90px;
+  margin-top: 2px;
+  min-height: 44px;
+}
+
+.application-form-3 .about-us-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-top: 2px;
+  min-height: 196px;
+  width: 148px;
+}
+
+.application-form-3 .about-us-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.application-form-3 .about-us-faq-accredi {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 154px;
+}
+
+.application-form-3 .flex-col-4 {
+  align-self: flex-end;
+  margin-left: 51px;
+  min-height: 259px;
+  width: 272px;
+}
+
+.application-form-3 .contact-us {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.application-form-3 .flex-row-5 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin-top: 19px;
+  min-width: 192px;
+}
+
+.application-form-3 .envelope {
+  height: 25px;
+  width: 25px;
+}
+
+.application-form-3 .infouecampuscom-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  min-width: 157px;
+}
+
+.application-form-3 .phone-container {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin-top: 11px;
+  min-width: 163px;
+}
+
+.application-form-3 .phone-2 {
+  height: 25px;
+  width: 25px;
+}
+
+.application-form-3 .phone-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  min-width: 128px;
+}
+
+.application-form-3 .image-107 {
+  height: 140px;
+  margin-top: 14px;
+  object-fit: cover;
+  width: 272px;
+}
+
+.application-form-3 .flex-col-5 {
+  gap: 18px;
+  margin-left: 50px;
+  margin-top: 2px;
+  min-height: 82px;
+  width: 316px;
+}
+
+.application-form-3 .newsletter {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.application-form-3 .overlap-group15 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  gap: 81px;
+  justify-content: flex-end;
+  min-width: 316px;
+}
+
+.application-form-3 .insert-email {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  width: 126px;
+}
+
+.application-form-3 .overlap-group-3 {
+  align-items: center;
+  background-color: var(--royal-purple);
+  border-radius: 5px;
+  display: flex;
+  gap: 9px;
+  min-width: 95px;
+}
+
+.application-form-3 .rectangle-3869 {
+  background-color: var(--royal-purple);
+  height: 39px;
+  width: 9px;
+}
+
+.application-form-3 .sign-up {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  width: 60px;
+}
+
+.application-form-3 .overlap-group11 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 61px;
+  min-width: 1920px;
+  padding: 19px 666px;
+}
+
+.application-form-3 .copyright-2024-ue-c {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.application-form-3 .group-359 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 2521px;
+  min-height: 171px;
+  width: 472px;
+}
+
+.application-form-3 .overlap-group {
+  height: 53px;
+  position: relative;
+  width: 275px;
+}
+
+.application-form-3 .name {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.application-form-3 .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 194px;
+  min-width: 464px;
+}
+
+.application-form-3 .overlap-group-1 {
+  align-items: center;
+  background-color: var(--hint-of-red);
+  display: flex;
+  height: 38px;
+  min-width: 38px;
+  padding: 0 8px;
+}
+
+.application-form-3 .group-357 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 20356px;
+  height: 457px;
+  margin-left: 35px;
+  margin-top: 4468px;
+  width: 490px;
+}
+
+.application-form-3 .group-33 {
+  height: 238px;
+  margin-left: -20806px;
+  margin-top: 7756px;
+  width: 464px;
+}
+
+.application-form-3 .group-354 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 267px;
+  min-height: 171px;
+  width: 472px;
+}
+
+.application-form-3 .group-358 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 20355px;
+  height: 457px;
+  margin-left: 30px;
+  margin-top: 4468px;
+  width: 490px;
+}
+
+.application-form-3 .ellipse {
+  border: 2px solid;
+  border-color: var(--onyx);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 42px;
+  position: absolute;
+  width: 15px;
+}
+
+.application-form-3 .flex-col-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.application-form-3 .sort-left-3 {
+  height: 15px;
+  position: absolute;
+  top: 35px;
+  width: 15px;
+}

@@ -1,0 +1,1688 @@
+/* screen - walsh-cyber-security */
+
+.walsh-cyber-security {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 6372px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.walsh-cyber-security .flex-col {
+  flex-direction: column;
+  min-height: 1558px;
+  width: 1920px;
+}
+
+.walsh-cyber-security .overlap-group15 {
+  align-items: center;
+  background-color: var(--royal-purple);
+  display: flex;
+  height: 45px;
+  min-width: 1920px;
+  padding: 0 62px;
+}
+
+.walsh-cyber-security .have-any-questions {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  min-height: 22px;
+  min-width: 195px;
+}
+
+.walsh-cyber-security .email {
+  height: 25px;
+  margin-left: 34px;
+  width: 25px;
+}
+
+.walsh-cyber-security .infouecampuscom {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 10px;
+  min-height: 22px;
+  min-width: 157px;
+}
+
+.walsh-cyber-security .phone {
+  height: 25px;
+  margin-left: 21px;
+  width: 25px;
+}
+
+.walsh-cyber-security .phone-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 11px;
+  min-height: 22px;
+  min-width: 128px;
+}
+
+.walsh-cyber-security .navbar {
+  align-items: center;
+  display: flex;
+  margin-top: 5px;
+  min-width: 1796px;
+}
+
+.walsh-cyber-security .navbar-link-programs {
+  min-width: 92px;
+}
+
+.walsh-cyber-security .sort-left {
+  height: 15px;
+  margin-left: 6px;
+  margin-top: 1.69px;
+  width: 15px;
+}
+
+.walsh-cyber-security .navbar-link-diplomas {
+  margin-left: 33px;
+  min-width: 90px;
+}
+
+.walsh-cyber-security .navbar-link-about-us {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.31px;
+  margin-left: 38px;
+  min-height: 22px;
+  min-width: 88px;
+}
+
+.walsh-cyber-security .navbar-link-scholarships {
+  margin-left: 38px;
+  min-width: 121px;
+}
+
+.walsh-cyber-security .x1-9d8512e0-removebg-preview-1 {
+  height: 83px;
+  margin-left: 245px;
+  object-fit: cover;
+  width: 180px;
+}
+
+.walsh-cyber-security .navbar-link-login {
+  margin-left: 561px;
+  min-width: 54px;
+}
+
+.walsh-cyber-security .overlap-group20 {
+  align-items: flex-start;
+  background-color: var(--bright-gray);
+  border-radius: 10px;
+  display: flex;
+  height: 49px;
+  margin-left: 33px;
+  margin-top: 1.69px;
+  min-width: 160px;
+  padding: 12px 40px;
+}
+
+.walsh-cyber-security .place {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.walsh-cyber-security .rectangle-6 {
+  background-color: var(--royal-purple);
+  height: 3px;
+  margin-top: 4px;
+  width: 1920px;
+}
+
+.walsh-cyber-security .overlap-group11 {
+  height: 357px;
+  position: relative;
+  width: 1920px;
+}
+
+.walsh-cyber-security .group-453 {
+  height: 329px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.walsh-cyber-security .bsit-cyber-security {
+  height: 114px;
+  left: 549px;
+  letter-spacing: 1.40px;
+  line-height: 80px;
+  position: absolute;
+  text-align: center;
+  top: 90px;
+  width: 896px;
+}
+
+.walsh-cyber-security .text-1 {
+  color: #ff8e13;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 800;
+  left: 318px;
+  letter-spacing: 0.64px;
+  line-height: 80px;
+  position: absolute;
+  text-align: center;
+  top: 164px;
+  white-space: nowrap;
+}
+
+.walsh-cyber-security .x47-253-user-ratings {
+  left: 23px;
+  letter-spacing: 0.48px;
+  line-height: 80px;
+  position: absolute;
+  text-align: center;
+  top: 164px;
+  white-space: nowrap;
+  width: 295px;
+}
+
+.walsh-cyber-security .surname {
+  left: 94px;
+  letter-spacing: 0.48px;
+  line-height: 80px;
+  position: absolute;
+  text-align: center;
+  top: 231px;
+  white-space: nowrap;
+}
+
+.walsh-cyber-security .span0 {
+  letter-spacing: 0.12px;
+}
+
+.walsh-cyber-security .image-13 {
+  height: 26px;
+  left: 469px;
+  object-fit: cover;
+  position: absolute;
+  top: 257px;
+  width: 45px;
+}
+
+.walsh-cyber-security .image-14 {
+  height: 23px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 257px;
+  width: 45px;
+}
+
+.walsh-cyber-security .price {
+  left: 235px;
+  letter-spacing: 0.70px;
+  line-height: 80px;
+  position: absolute;
+  top: 321px;
+  white-space: nowrap;
+  width: 72px;
+}
+
+.walsh-cyber-security .overlap-group16 {
+  align-self: flex-start;
+  height: 188px;
+  margin-left: 59px;
+  margin-top: 29px;
+  position: relative;
+  width: 351px;
+}
+
+.walsh-cyber-security .the-bba-in-marketing {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 64.0px;
+  min-height: 116px;
+  width: 1700px;
+}
+
+.walsh-cyber-security .overlap-group8 {
+  align-self: flex-start;
+  height: 188px;
+  margin-left: 59px;
+  margin-top: 12px;
+  position: relative;
+  width: 509px;
+}
+
+.walsh-cyber-security .surname-1 {
+  left: 0;
+  position: absolute;
+  top: 64px;
+  white-space: nowrap;
+  width: 509px;
+}
+
+.walsh-cyber-security .surname-2 {
+  margin-right: 64.0px;
+  min-height: 145px;
+  width: 1700px;
+}
+
+.walsh-cyber-security .eligibility {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 69px;
+  margin-top: 47px;
+  min-height: 77px;
+  white-space: nowrap;
+}
+
+.walsh-cyber-security .overlap-group13 {
+  height: 203px;
+  margin-right: 78.0px;
+  margin-top: 56px;
+  position: relative;
+  width: 1700px;
+}
+
+.walsh-cyber-security .image-18 {
+  height: 24px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 32px;
+}
+
+.walsh-cyber-security .image-19 {
+  height: 24px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 112px;
+  width: 32px;
+}
+
+.walsh-cyber-security .image-20 {
+  height: 24px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 87px;
+  width: 32px;
+}
+
+.walsh-cyber-security .flex-row {
+  gap: 129px;
+  height: 1756px;
+  margin-left: 33.0px;
+  margin-top: 47px;
+  min-width: 1797px;
+}
+
+.walsh-cyber-security .flex-col-1 {
+  min-height: 1756px;
+  width: 938px;
+}
+
+.walsh-cyber-security .course-structure {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 77px;
+  white-space: nowrap;
+}
+
+.walsh-cyber-security .overlap-group10 {
+  height: 60px;
+  margin-left: 9px;
+  margin-top: 32px;
+  position: relative;
+  width: 889px;
+}
+
+.walsh-cyber-security .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--bright-gray);
+  border-radius: 10px;
+  display: flex;
+  height: 60px;
+  left: 0;
+  min-width: 887px;
+  padding: 12px 32px;
+  position: absolute;
+  top: 0;
+}
+
+.walsh-cyber-security .general-education-and-business-courses {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 32px;
+  white-space: nowrap;
+}
+
+.walsh-cyber-security .image-26 {
+  height: 37px;
+  left: 840px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 34px;
+}
+
+.walsh-cyber-security .flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 21px;
+  height: 228px;
+  margin-left: 36px;
+  margin-top: 104px;
+  min-width: 760px;
+}
+
+.walsh-cyber-security .image-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 2.0px;
+  min-height: 184px;
+  width: 42px;
+}
+
+.walsh-cyber-security .image-21 {
+  height: 33px;
+  object-fit: cover;
+  width: 42px;
+}
+
+.walsh-cyber-security .image-22 {
+  height: 33px;
+  margin-top: 44px;
+  object-fit: cover;
+  width: 42px;
+}
+
+.walsh-cyber-security .image-23 {
+  height: 33px;
+  margin-top: 41px;
+  object-fit: cover;
+  width: 42px;
+}
+
+.walsh-cyber-security .table-row-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 228px;
+  width: 697px;
+}
+
+.walsh-cyber-security .table-row {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 697px;
+}
+
+.walsh-cyber-security .row-content-1 {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1.38px;
+  border-color: var(--big-stone-2);
+  border-top-style: solid;
+  border-top-width: 1.38px;
+  display: flex;
+  gap: 88.46px;
+  height: 76px;
+  padding: 22.12px 11.06px;
+  position: relative;
+  width: 100%;
+}
+
+.walsh-cyber-security .frame-143-1 {
+  align-items: center;
+  display: flex;
+  gap: 88.46px;
+  margin-bottom: -7.12px;
+  margin-top: -7.12px;
+  position: relative;
+  width: 642px;
+}
+
+.walsh-cyber-security .frame-76 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 88.46px;
+  justify-content: flex-end;
+  margin-right: -117.67px;
+  position: relative;
+}
+
+.walsh-cyber-security .row-content {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1.38px;
+  border-color: var(--big-stone-2);
+  display: flex;
+  gap: 88.46px;
+  height: 76px;
+  padding: 22.12px 11.06px;
+  position: relative;
+  width: 100%;
+}
+
+.walsh-cyber-security .frame-143 {
+  align-items: center;
+  display: flex;
+  gap: 88.46px;
+  position: relative;
+  width: 653px;
+}
+
+.walsh-cyber-security .frame-76-1 {
+  height: 24.88px;
+  margin-right: -106.67px;
+}
+
+.walsh-cyber-security .frame-76-2 {
+  margin-right: -107.67px;
+}
+
+.walsh-cyber-security .overlap-group14 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--bright-gray);
+  border-radius: 10px;
+  display: flex;
+  gap: 52px;
+  height: 60px;
+  justify-content: flex-end;
+  margin-right: 24.59px;
+  margin-top: 78px;
+  min-width: 887px;
+  padding: 11px 17.4px;
+}
+
+.walsh-cyber-security .core-courses {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 32px;
+  white-space: nowrap;
+  width: 752px;
+}
+
+.walsh-cyber-security .image-24 {
+  align-self: flex-end;
+  height: 37px;
+  margin-bottom: 0.06px;
+  object-fit: cover;
+  width: 34px;
+}
+
+.walsh-cyber-security .overlap-group18 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--bright-gray);
+  border-radius: 10px;
+  display: flex;
+  gap: 6px;
+  height: 60px;
+  justify-content: flex-end;
+  margin-right: 24.59px;
+  margin-top: 29px;
+  min-width: 887px;
+  padding: 10.1px 17.4px;
+}
+
+.walsh-cyber-security .general-business-major-courses {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 0.94px;
+  min-height: 32px;
+  white-space: nowrap;
+  width: 798px;
+}
+
+.walsh-cyber-security .image-25 {
+  align-self: flex-end;
+  height: 37px;
+  object-fit: cover;
+  width: 34px;
+}
+
+.walsh-cyber-security .european-credit-ects-60 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 51.5px;
+  margin-top: 27px;
+  min-height: 18px;
+  white-space: nowrap;
+  width: 182px;
+}
+
+.walsh-cyber-security .overlap-group7 {
+  align-self: flex-end;
+  height: 844px;
+  margin-top: 10px;
+  position: relative;
+  width: 919px;
+}
+
+.walsh-cyber-security .the-bba-in-marketing-1 {
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 919px;
+}
+
+.walsh-cyber-security .unit-name {
+  left: 92px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.walsh-cyber-security .uk-credit-rqf-120 {
+  left: 398px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 200px;
+}
+
+.walsh-cyber-security .overlap-group-container {
+  flex-direction: column;
+  gap: 86px;
+  margin-bottom: 4.0px;
+  min-height: 1692px;
+  width: 730px;
+}
+
+.walsh-cyber-security .overlap-group6 {
+  height: 1055px;
+  margin-right: 4.0px;
+  position: relative;
+  width: 602px;
+}
+
+.walsh-cyber-security .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 1055px;
+  padding: 20.6px 15.9px;
+  position: absolute;
+  top: 0;
+  width: 600px;
+}
+
+.walsh-cyber-security .group-345 {
+  height: 24px;
+  margin-right: 44.51px;
+  margin-top: 32px;
+  width: 64px;
+}
+
+.walsh-cyber-security .overlap-group {
+  align-items: flex-end;
+  background-color: var(--bright-gray);
+  border-radius: 15px;
+  display: flex;
+  height: 81px;
+  justify-content: flex-end;
+  margin-right: 16.09px;
+  margin-top: 29px;
+  min-width: 543px;
+  padding: 16px 114px;
+}
+
+.walsh-cyber-security .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--bright-gray);
+  border-radius: 15px;
+  display: flex;
+  height: 81px;
+  justify-content: flex-end;
+  margin-right: 16.09px;
+  margin-top: 22px;
+  min-width: 543px;
+  padding: 18px 141px;
+}
+
+.walsh-cyber-security .group-344 {
+  align-self: center;
+  display: flex;
+  height: 43px;
+  margin-right: 4.39px;
+  margin-top: 21px;
+  width: 458px;
+}
+
+.walsh-cyber-security .group-343 {
+  display: flex;
+  gap: 7.3px;
+  height: 37.88px;
+  margin-top: 5.4px;
+  width: 143.93px;
+}
+
+.walsh-cyber-security .time-svgrepo-com-1 {
+  height: 27.94px;
+  width: 23.25px;
+}
+
+.walsh-cyber-security .x22hr-30min {
+  height: 35.29px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 2.6px;
+  width: 111.34px;
+}
+
+.walsh-cyber-security .group-342 {
+  display: flex;
+  gap: 8.6px;
+  height: 43.23px;
+  margin-left: 15.1px;
+  width: 156.17px;
+}
+
+.walsh-cyber-security .video-svgrepo-com-1 {
+  height: 41.17px;
+  width: 34.26px;
+}
+
+.walsh-cyber-security .address {
+  height: 35.29px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 7.9px;
+  width: 111.34px;
+}
+
+.walsh-cyber-security .group-341 {
+  display: flex;
+  gap: 9px;
+  height: 35.88px;
+  margin-left: 17.1px;
+  margin-top: 7.4px;
+  width: 127.25px;
+}
+
+.walsh-cyber-security .download-svgrepo-com-1 {
+  height: 26.47px;
+  width: 22.02px;
+}
+
+.walsh-cyber-security .address-1 {
+  height: 35.29px;
+  margin-top: 0.6px;
+  width: 94.21px;
+}
+
+.walsh-cyber-security .line-1 {
+  height: 2px;
+  margin-right: 18.09px;
+  margin-top: 85px;
+  object-fit: cover;
+  width: 517px;
+}
+
+.walsh-cyber-security .image-27 {
+  height: 100px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 146px;
+  width: 100px;
+}
+
+.walsh-cyber-security .price-1 {
+  left: 158px;
+  letter-spacing: 0.70px;
+  line-height: 80px;
+  position: absolute;
+  top: 373px;
+  white-space: nowrap;
+  width: 72px;
+}
+
+.walsh-cyber-security .price-2 {
+  left: 23px;
+  letter-spacing: 0.64px;
+  line-height: 80px;
+  position: absolute;
+  top: 374px;
+  width: 127px;
+}
+
+.walsh-cyber-security .update-april-2-2024 {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 65px;
+  position: absolute;
+  top: 721px;
+  width: 528px;
+}
+
+.walsh-cyber-security .line-1-1 {
+  height: 2px;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 840px;
+  width: 517px;
+}
+
+.walsh-cyber-security .overlap-group17 {
+  height: 551px;
+  position: relative;
+  width: 730px;
+}
+
+.walsh-cyber-security .rectangle-3873 {
+  height: 551px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 684px;
+}
+
+.walsh-cyber-security .fee-payment-plans {
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 38px;
+  white-space: nowrap;
+  width: 691px;
+}
+
+.walsh-cyber-security .investment-in-your-f {
+  color: #ffffffc4;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 175px;
+  width: 573px;
+}
+
+.walsh-cyber-security .program-duration-and {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 68.0px;
+  margin-top: 80px;
+  min-height: 164px;
+  width: 1710px;
+}
+
+.walsh-cyber-security .the-bba-in-marketing-2 {
+  margin-right: 80.0px;
+  margin-top: 43px;
+  min-height: 116px;
+  width: 1700px;
+}
+
+.walsh-cyber-security .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 326px;
+  margin-right: 14.0px;
+  margin-top: 53px;
+  min-width: 952px;
+}
+
+.walsh-cyber-security .flex-row-item {
+  height: 100px;
+  width: 100px;
+}
+
+.walsh-cyber-security .overlap-group12 {
+  height: 153px;
+  margin-right: 15.0px;
+  margin-top: 16px;
+  position: relative;
+  width: 1299px;
+}
+
+.walsh-cyber-security .fee-structure {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 448px;
+}
+
+.walsh-cyber-security .intake {
+  left: 426px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 448px;
+}
+
+.walsh-cyber-security .duration {
+  left: 851px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  width: 448px;
+}
+
+.walsh-cyber-security .aed-37275-year-vat-5-inclusive {
+  left: 84px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 66px;
+  width: 280px;
+}
+
+.walsh-cyber-security .x1-fall-sept-dec {
+  left: 510px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 66px;
+  width: 280px;
+}
+
+.walsh-cyber-security .address-2 {
+  left: 936px;
+  position: absolute;
+  text-align: center;
+  top: 81px;
+  width: 280px;
+}
+
+.walsh-cyber-security .open-book {
+  height: 100px;
+  margin-right: 2.0px;
+  margin-top: 72px;
+  width: 100px;
+}
+
+.walsh-cyber-security .general-entry-criteria {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 3.0px;
+  margin-top: 18px;
+  min-height: 53px;
+  text-align: center;
+  white-space: nowrap;
+  width: 513px;
+}
+
+.walsh-cyber-security .african-waecnecowa {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  margin-top: 24px;
+  min-height: 232px;
+  text-align: center;
+  width: 1249px;
+}
+
+.walsh-cyber-security .choose-pricing-plan {
+  letter-spacing: 1.28px;
+  line-height: 107.2px;
+  margin-left: 28.0px;
+  margin-top: 135px;
+  min-height: 60px;
+  white-space: nowrap;
+  width: 620px;
+}
+
+.walsh-cyber-security .span {
+  letter-spacing: 0.82px;
+}
+
+.walsh-cyber-security .overlap-group19 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-55.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 79px;
+  margin-top: 48px;
+  min-width: 1122px;
+  padding: 21px 54px;
+}
+
+.walsh-cyber-security .overlap-group9 {
+  height: 782px;
+  margin-left: 7.47px;
+  margin-top: 63px;
+  position: relative;
+  width: 1109px;
+}
+
+.walsh-cyber-security .price-3 {
+  left: 433px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  top: 194px;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.walsh-cyber-security .pricing-table {
+  align-items: flex-start;
+  display: flex;
+  gap: 3px;
+  height: 782px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1109px;
+  position: absolute;
+  top: 0;
+}
+
+.walsh-cyber-security .price-list-1 {
+  margin-top: -10px;
+}
+
+.walsh-cyber-security .overlap-group4 {
+  height: 820px;
+  margin-top: -20.0px;
+  position: relative;
+  width: 748px;
+}
+
+.walsh-cyber-security .group-289556 {
+  height: 64px;
+  left: 35px;
+  position: absolute;
+  top: 334px;
+  width: 291px;
+}
+
+.walsh-cyber-security .price-list-3 {
+  left: 362px;
+  position: absolute;
+  top: 10px;
+}
+
+.walsh-cyber-security .rectangle-4469 {
+  background-color: var(--bright-gray);
+  border-radius: 15px;
+  box-shadow: 0px 44px 64px #4876ea4c;
+  height: 782px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 358px;
+}
+
+.walsh-cyber-security .check-circle-1 {
+  height: 21px;
+  left: 36px;
+  position: absolute;
+  top: 460px;
+  width: 21px;
+}
+
+.walsh-cyber-security .all-limited-links {
+  left: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 460px;
+  width: 220px;
+}
+
+.walsh-cyber-security .check-circle-1-1 {
+  top: 510px;
+}
+
+.walsh-cyber-security .own-analytics-platfo {
+  left: 69px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 509px;
+  width: 225px;
+}
+
+.walsh-cyber-security .check-circle-1-2 {
+  top: 560px;
+}
+
+.walsh-cyber-security .chat-support {
+  left: 69px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 560px;
+  width: 212px;
+}
+
+.walsh-cyber-security .check-circle-1-3 {
+  top: 609px;
+}
+
+.walsh-cyber-security .optimize-hashtags {
+  left: 69px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 607px;
+  width: 194px;
+}
+
+.walsh-cyber-security .intro {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 69px;
+  width: 273px;
+}
+
+.walsh-cyber-security .x20 {
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  top: 201px;
+  white-space: nowrap;
+  width: 164px;
+}
+
+.walsh-cyber-security .for-most-businesses {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 151px;
+  width: 94px;
+}
+
+.walsh-cyber-security .frame {
+  align-items: center;
+  background-color: var(--gigas);
+  border-radius: 15px;
+  display: flex;
+  height: 64px;
+  left: 411px;
+  overflow: hidden;
+  position: absolute;
+  top: 331px;
+  width: 291px;
+}
+
+.walsh-cyber-security .choose-plan {
+  flex: 1;
+  height: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 23.94%;
+  margin-right: 23.8%;
+  margin-top: 0.4px;
+  text-align: center;
+  width: 152px;
+}
+
+.walsh-cyber-security .rectangle-60 {
+  height: 45px;
+  left: 35px;
+  position: absolute;
+  top: 249px;
+  width: 223px;
+}
+
+.walsh-cyber-security .total-fee-6600 {
+  left: 66px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 259px;
+  width: 243px;
+}
+
+.walsh-cyber-security .rectangle-61 {
+  height: 45px;
+  left: 404px;
+  position: absolute;
+  top: 249px;
+  width: 223px;
+}
+
+.walsh-cyber-security .total-fee-6600-1 {
+  left: 440px;
+  width: 243px;
+}
+
+.walsh-cyber-security .total-fee-6600-2 {
+  left: 821px;
+  width: 155px;
+}
+
+.walsh-cyber-security .rectangle-62 {
+  height: 45px;
+  left: 783px;
+  position: absolute;
+  top: 248px;
+  width: 223px;
+}
+
+.walsh-cyber-security .frame-1 {
+  align-items: center;
+  background-color: var(--bright-gray);
+  border-radius: 15px;
+  display: flex;
+  height: 64px;
+  left: 786px;
+  overflow: hidden;
+  position: absolute;
+  top: 331px;
+  width: 291px;
+}
+
+.walsh-cyber-security .month {
+  left: 604px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 193px;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.walsh-cyber-security .month-1 {
+  left: 980px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 197px;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.walsh-cyber-security .price-4 {
+  left: 422px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  top: 186px;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.walsh-cyber-security .price-5 {
+  left: 800px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  top: 186px;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.walsh-cyber-security .overlap-group5 {
+  align-items: center;
+  align-self: flex-start;
+  background-color: var(--gallery);
+  display: flex;
+  flex-direction: column;
+  gap: 95px;
+  margin-left: -33px;
+  margin-top: 128px;
+  min-height: 492px;
+  padding: 0.0px 0;
+  width: 1953px;
+}
+
+.walsh-cyber-security .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 0;
+  margin-top: 73px;
+  min-width: 1827px;
+}
+
+.walsh-cyber-security .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 97px;
+  height: 262px;
+  min-width: 1126px;
+}
+
+.walsh-cyber-security .flex-col-2 {
+  gap: 2px;
+  min-height: 262px;
+  width: 879px;
+}
+
+.walsh-cyber-security .flex-row-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 188px;
+  min-width: 879px;
+}
+
+.walsh-cyber-security .flex-col-3 {
+  align-self: flex-end;
+  gap: 15px;
+  min-height: 187px;
+  width: 506px;
+}
+
+.walsh-cyber-security .x1-9d8512e0-removebg-preview-2 {
+  height: 84px;
+  object-fit: cover;
+  width: 183px;
+}
+
+.walsh-cyber-security .at-ue-campus-we-unde {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 88px;
+  width: 506px;
+}
+
+.walsh-cyber-security .flex-col-4 {
+  margin-left: 75px;
+  min-height: 171px;
+  width: 77px;
+}
+
+.walsh-cyber-security .courses {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 77px;
+}
+
+.walsh-cyber-security .bachelors-masters-dba {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 19px;
+  min-height: 66px;
+  width: 75px;
+}
+
+.walsh-cyber-security .apply {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 35px;
+  min-height: 25px;
+  width: 77px;
+}
+
+.walsh-cyber-security .flex-col-5 {
+  margin-left: 97px;
+  margin-top: 2.01px;
+  min-height: 171px;
+  width: 124px;
+}
+
+.walsh-cyber-security .programs {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 94px;
+}
+
+.walsh-cyber-security .ppa-walsh-college-diploma {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 19px;
+  min-height: 66px;
+  width: 106px;
+}
+
+.walsh-cyber-security .online-study {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 35px;
+  min-height: 25px;
+  width: 124px;
+}
+
+.walsh-cyber-security .flex-row-6 {
+  align-items: flex-end;
+  display: flex;
+  height: 72px;
+  min-width: 872px;
+}
+
+.walsh-cyber-security .overlap-group23 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20.34px/20.1px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5.03px;
+  min-width: 41px;
+  padding: 7.0px 7.1px;
+}
+
+.walsh-cyber-security .you-tube {
+  height: 25px;
+  width: 25px;
+}
+
+.walsh-cyber-security .linked-in-circled {
+  height: 50px;
+  margin-left: 10px;
+  width: 51px;
+}
+
+.walsh-cyber-security .overlap-group24 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20.34px/20.1px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5.03px;
+  margin-left: 10px;
+  min-width: 41px;
+  padding: 7.0px 7.1px;
+}
+
+.walsh-cyber-security .tik-tok {
+  height: 25px;
+  width: 25px;
+}
+
+.walsh-cyber-security .overlap-group22 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20.34px/20.1px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5.03px;
+  margin-left: 15px;
+  min-width: 41px;
+  padding: 7.0px 7.1px;
+}
+
+.walsh-cyber-security .twitter-x {
+  height: 25px;
+  width: 25px;
+}
+
+.walsh-cyber-security .instagram-circle {
+  height: 50px;
+  margin-left: 12px;
+  width: 51px;
+}
+
+.walsh-cyber-security .facebook {
+  height: 50px;
+  margin-left: 7px;
+  width: 51px;
+}
+
+.walsh-cyber-security .fees-apply-now {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 251px;
+  min-height: 44px;
+  width: 82px;
+}
+
+.walsh-cyber-security .online-degrees-online-lms {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 92px;
+  margin-top: 2.01px;
+  min-height: 44px;
+  width: 117px;
+}
+
+.walsh-cyber-security .about-us-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-top: 2.01px;
+  min-height: 197px;
+  width: 151px;
+}
+
+.walsh-cyber-security .about-us {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 151px;
+}
+
+.walsh-cyber-security .about-us-faq-accredi {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 155px;
+  width: 109px;
+}
+
+.walsh-cyber-security .flex-col-6 {
+  align-self: flex-end;
+  margin-bottom: 0;
+  margin-left: 52px;
+  min-height: 260px;
+  width: 277px;
+}
+
+.walsh-cyber-security .contact-us {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 151px;
+}
+
+.walsh-cyber-security .flex-row-7 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin-top: 19px;
+  min-width: 195px;
+}
+
+.walsh-cyber-security .envelope {
+  height: 25px;
+  width: 25px;
+}
+
+.walsh-cyber-security .infouecampuscom-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  width: 160px;
+}
+
+.walsh-cyber-security .phone-container {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin-top: 11px;
+  min-width: 166px;
+}
+
+.walsh-cyber-security .phone-2 {
+  height: 25px;
+  width: 25px;
+}
+
+.walsh-cyber-security .phone-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 0.99px;
+  min-height: 22px;
+  width: 130px;
+}
+
+.walsh-cyber-security .image-31 {
+  height: 141px;
+  margin-top: 14px;
+  object-fit: cover;
+  width: 277px;
+}
+
+.walsh-cyber-security .flex-col-7 {
+  gap: 18px;
+  margin-left: 51px;
+  margin-top: 2.01px;
+  min-height: 82px;
+  width: 321px;
+}
+
+.walsh-cyber-security .newsletter {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 151px;
+}
+
+.walsh-cyber-security .overlap-group21 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  gap: 82px;
+  justify-content: flex-end;
+  min-width: 321px;
+}
+
+.walsh-cyber-security .insert-email {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  width: 128px;
+}
+
+.walsh-cyber-security .overlap-group-1 {
+  background-color: var(--royal-purple);
+  border-radius: 5px;
+  gap: 9px;
+  min-width: 97px;
+}
+
+.walsh-cyber-security .rectangle-94 {
+  background-color: var(--royal-purple);
+  height: 39px;
+  width: 9px;
+}
+
+.walsh-cyber-security .sign-up {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  width: 61px;
+}
+
+.walsh-cyber-security .overlap-group25 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 61px;
+  justify-content: flex-end;
+  min-width: 1953px;
+  padding: 19.1px 677.4px;
+}
+
+.walsh-cyber-security .copyright-2024-ue-c {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  width: 598px;
+}
+
+.walsh-cyber-security .address-3 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.walsh-cyber-security .check-circle-1-4 {
+  height: 21px;
+  left: 36px;
+  position: absolute;
+  width: 21px;
+}
+
+.walsh-cyber-security .flex {
+  align-items: center;
+  display: flex;
+}
+
+.walsh-cyber-security .flex-col-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.walsh-cyber-security .frame-76-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 88.46px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.walsh-cyber-security .navbar-link {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.31px;
+  min-height: 22px;
+}
+
+.walsh-cyber-security .overlap-group-2 {
+  align-items: center;
+  display: flex;
+}
+
+.walsh-cyber-security .price-list {
+  height: 810px;
+  width: 386px;
+}
+
+.walsh-cyber-security .surname-3 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.walsh-cyber-security .the-bba-in-marketing-3 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.walsh-cyber-security .total-fee-6600-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 259px;
+}

@@ -1,0 +1,986 @@
+/* screen - accreditation */
+
+.accreditation {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3442px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.accreditation .overlap-group5 {
+  align-items: center;
+  background-color: var(--royal-purple);
+  display: flex;
+  height: 45px;
+  min-width: 1920px;
+  padding: 0 62px;
+}
+
+.accreditation .have-any-questions {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  min-height: 22px;
+  min-width: 195px;
+}
+
+.accreditation .email {
+  height: 25px;
+  margin-left: 34px;
+  width: 25px;
+}
+
+.accreditation .infouecampuscom {
+  margin-bottom: 3.0px;
+  margin-left: 10px;
+}
+
+.accreditation .phone {
+  height: 25px;
+  margin-left: 21px;
+  width: 25px;
+}
+
+.accreditation .phone-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 11px;
+  min-height: 22px;
+  min-width: 128px;
+}
+
+.accreditation .overlap-group20 {
+  height: 443px;
+  margin-right: -206px;
+  margin-top: 5px;
+  position: relative;
+  width: 2333px;
+}
+
+.accreditation .overlap-group12 {
+  height: 443px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2333px;
+}
+
+.accreditation .x1-9d8512e0-removebg-preview-3 {
+  height: 83px;
+  left: 1077px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 180px;
+}
+
+.accreditation .rectangle-3866 {
+  background-color: var(--royal-purple);
+  height: 3px;
+  left: 207px;
+  position: absolute;
+  top: 87px;
+  width: 1920px;
+}
+
+.accreditation .group-453 {
+  height: 360px;
+  left: 207px;
+  position: absolute;
+  top: 83px;
+  width: 1920px;
+}
+
+.accreditation .accreditation-1 {
+  left: 0;
+  line-height: 121.5px;
+  text-align: center;
+  top: 170px;
+  width: 2333px;
+}
+
+.accreditation .empowering-learning {
+  left: 691px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 292px;
+  width: 951px;
+}
+
+.accreditation .programs {
+  left: 269px;
+  position: absolute;
+  top: 30px;
+}
+
+.accreditation .diplomas {
+  left: 415px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.accreditation .scholarships {
+  left: 711px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.accreditation .about-us {
+  left: 564px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.accreditation .login {
+  left: 1818px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.accreditation .overlap-group11 {
+  align-items: flex-start;
+  background-color: var(--bright-gray);
+  border-radius: 10px;
+  display: flex;
+  height: 49px;
+  left: 1905px;
+  min-width: 160px;
+  padding: 12px 40px;
+  position: absolute;
+  top: 18px;
+}
+
+.accreditation .place {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.accreditation .sort-left {
+  height: 15px;
+  left: 367px;
+  position: absolute;
+  top: 35px;
+  width: 15px;
+}
+
+.accreditation .sort-left-1 {
+  left: 658px;
+}
+
+.accreditation .sort-left-2 {
+  left: 511px;
+}
+
+.accreditation .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 131px;
+  height: 2852px;
+  margin-right: -603px;
+  margin-top: 97px;
+  min-width: 2523px;
+}
+
+.accreditation .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 2852px;
+  width: 1920px;
+}
+
+.accreditation .overlap-group7 {
+  align-self: center;
+  height: 450px;
+  margin-right: 26.0px;
+  position: relative;
+  width: 1568px;
+}
+
+.accreditation .rectangle-4477 {
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  height: 312px;
+  left: 277px;
+  position: absolute;
+  top: 65px;
+  width: 1291px;
+}
+
+.accreditation .image-120 {
+  background-color: var(--royal-purple);
+  border: 20px solid;
+  border-color: var(--white);
+  border-radius: 9999px;
+  height: 450px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 450px;
+}
+
+.accreditation .image-117 {
+  height: 350px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 350px;
+}
+
+.accreditation .national-security-ag {
+  left: 533px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 125px;
+  width: 883px;
+}
+
+.accreditation .surname {
+  color: var(--white);
+  left: 533px;
+  top: 234px;
+}
+
+.accreditation .overlap-group-container {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  margin-top: 99px;
+  min-height: 1109px;
+  padding: 148px 203px;
+  width: 1920px;
+}
+
+.accreditation .overlap-group1 {
+  height: 391px;
+  position: relative;
+  width: 1513px;
+}
+
+.accreditation .rectangle-4480 {
+  background-color: var(--gallery);
+  border: 20px solid;
+  border-color: var(--white);
+  border-radius: 10px;
+  height: 391px;
+  left: 344px;
+  position: absolute;
+  top: 0;
+  width: 1169px;
+}
+
+.accreditation .rectangle-4479 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 391px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 395px;
+}
+
+.accreditation .image-118 {
+  height: 277px;
+  left: 70px;
+  position: absolute;
+  top: 57px;
+  width: 255px;
+}
+
+.accreditation .accreditation-counci {
+  left: 478px;
+  line-height: normal;
+  top: 102px;
+  width: 883px;
+}
+
+.accreditation .surname-1 {
+  color: var(--onyx);
+  left: 478px;
+  top: 211px;
+}
+
+.accreditation .rectangle-4481 {
+  background-color: var(--gallery);
+  border: 20px solid;
+  border-color: var(--white);
+  border-radius: 10px;
+  height: 391px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 1169px;
+}
+
+.accreditation .rectangle-4482 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 391px;
+  left: 1118px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 395px;
+}
+
+.accreditation .image-119 {
+  height: 325px;
+  left: 1209px;
+  object-fit: cover;
+  position: absolute;
+  top: 33px;
+  width: 214px;
+}
+
+.accreditation .higher-learning-commission-hlc {
+  left: 176px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 134px;
+  width: 883px;
+}
+
+.accreditation .surname-2 {
+  color: var(--onyx);
+  left: 145px;
+  text-align: right;
+  top: 205px;
+}
+
+.accreditation .endorsements {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 62px;
+  margin-top: 134px;
+  min-height: 29px;
+  width: 451px;
+}
+
+.accreditation .recognized-by-leadin {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 62px;
+  margin-top: 5px;
+  min-height: 39px;
+  width: 1064px;
+}
+
+.accreditation .rectangle-3868 {
+  background-color: var(--royal-purple);
+  height: 9px;
+  margin-left: 65px;
+  margin-top: 22px;
+  width: 30px;
+}
+
+.accreditation .overlap-group-container-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 31px;
+  margin-top: 65px;
+  min-width: 1796px;
+}
+
+.accreditation .overlap-group10 {
+  align-items: flex-start;
+  background-color: var(--bright-gray);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  min-height: 212px;
+  padding: 44px 53px;
+  width: 578px;
+}
+
+.accreditation .bachelor-of-accounta {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1px;
+  min-height: 58px;
+  width: 461px;
+}
+
+.accreditation .endorsed-by-the-inst {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  width: 453px;
+}
+
+.accreditation .overlap-group9 {
+  height: 212px;
+  position: relative;
+  width: 1187px;
+}
+
+.accreditation .rectangle-4484 {
+  background-color: var(--bright-gray);
+  border-radius: 10px;
+  height: 212px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 578px;
+}
+
+.accreditation .rectangle-4485 {
+  background-color: var(--bright-gray);
+  border-radius: 10px;
+  height: 212px;
+  left: 609px;
+  position: absolute;
+  top: 0;
+  width: 578px;
+}
+
+.accreditation .master-of-science-in-finance {
+  left: 52px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 57px;
+  width: 371px;
+}
+
+.accreditation .cfa-institute-affili {
+  left: 52px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+  width: 610px;
+}
+
+.accreditation .ms-in-management-h {
+  left: 651px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 53px;
+  width: 494px;
+}
+
+.accreditation .aligned-with-shrm-cu {
+  left: 651px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 135px;
+  width: 439px;
+}
+
+.accreditation .overlap-group6 {
+  align-items: center;
+  background-color: var(--gallery);
+  display: flex;
+  flex-direction: column;
+  gap: 95px;
+  margin-top: 189px;
+  min-height: 490px;
+  width: 1920px;
+}
+
+.accreditation .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 73px;
+  min-width: 1796px;
+}
+
+.accreditation .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 95px;
+  height: 261px;
+  min-width: 1107px;
+}
+
+.accreditation .flex-col-1 {
+  gap: 2px;
+  min-height: 261px;
+  width: 864px;
+}
+
+.accreditation .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 187px;
+  min-width: 864px;
+}
+
+.accreditation .flex-col-2 {
+  align-self: flex-end;
+  gap: 15px;
+  min-height: 186px;
+  width: 497px;
+}
+
+.accreditation .at-ue-campus-we-unde {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 88px;
+  width: 497px;
+}
+
+.accreditation .flex-col-3 {
+  margin-left: 74px;
+  min-height: 170px;
+  width: 76px;
+}
+
+.accreditation .courses {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 76px;
+}
+
+.accreditation .bachelors-masters-dba {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 19px;
+  min-height: 66px;
+}
+
+.accreditation .apply {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 35px;
+  min-height: 25px;
+  width: 76px;
+}
+
+.accreditation .flex-col-4 {
+  margin-left: 95px;
+  margin-top: 2px;
+  min-height: 170px;
+  width: 122px;
+}
+
+.accreditation .programs-1 {
+  min-height: 25px;
+  width: 92px;
+}
+
+.accreditation .ppa-walsh-college-diploma {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 19px;
+  min-height: 66px;
+}
+
+.accreditation .online-study {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 35px;
+  min-height: 25px;
+  width: 122px;
+}
+
+.accreditation .flex-row-5 {
+  align-items: flex-end;
+  display: flex;
+  height: 72px;
+  min-width: 857px;
+}
+
+.accreditation .overlap-group15 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.accreditation .you-tube {
+  height: 25px;
+  width: 25px;
+}
+
+.accreditation .linked-in-circled {
+  height: 50px;
+  margin-left: 10px;
+  width: 50px;
+}
+
+.accreditation .overlap-group18 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.accreditation .tik-tok {
+  height: 25px;
+  width: 25px;
+}
+
+.accreditation .overlap-group17 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  margin-left: 15px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.accreditation .twitter-x {
+  height: 25px;
+  width: 25px;
+}
+
+.accreditation .instagram-circle {
+  height: 50px;
+  margin-left: 12px;
+  width: 50px;
+}
+
+.accreditation .facebook {
+  height: 50px;
+  margin-left: 7px;
+  width: 50px;
+}
+
+.accreditation .fees-apply-now {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 247px;
+  min-height: 44px;
+  min-width: 81px;
+}
+
+.accreditation .online-degrees-online-lms {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 90px;
+  margin-top: 2px;
+  min-height: 44px;
+}
+
+.accreditation .about-us-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-top: 2px;
+  min-height: 196px;
+  width: 148px;
+}
+
+.accreditation .about-us-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.accreditation .about-us-faq-accredi {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 154px;
+}
+
+.accreditation .flex-col-5 {
+  align-self: flex-end;
+  margin-left: 51px;
+  min-height: 259px;
+  width: 272px;
+}
+
+.accreditation .contact-us {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.accreditation .flex-row-6 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin-top: 19px;
+  min-width: 192px;
+}
+
+.accreditation .envelope {
+  height: 25px;
+  width: 25px;
+}
+
+.accreditation .infouecampuscom-1 {
+  margin-bottom: 1.0px;
+}
+
+.accreditation .phone-container {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin-top: 11px;
+  min-width: 163px;
+}
+
+.accreditation .phone-2 {
+  height: 25px;
+  width: 25px;
+}
+
+.accreditation .phone-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  min-width: 128px;
+}
+
+.accreditation .image-107 {
+  height: 140px;
+  margin-top: 14px;
+  object-fit: cover;
+  width: 272px;
+}
+
+.accreditation .flex-col-6 {
+  gap: 18px;
+  margin-left: 50px;
+  margin-top: 2px;
+  min-height: 82px;
+  width: 316px;
+}
+
+.accreditation .newsletter {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.accreditation .overlap-group16 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  gap: 81px;
+  justify-content: flex-end;
+  min-width: 316px;
+}
+
+.accreditation .insert-email {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  width: 126px;
+}
+
+.accreditation .overlap-group-2 {
+  align-items: center;
+  background-color: var(--royal-purple);
+  border-radius: 5px;
+  display: flex;
+  gap: 9px;
+  min-width: 95px;
+}
+
+.accreditation .rectangle-3869 {
+  background-color: var(--royal-purple);
+  height: 39px;
+  width: 9px;
+}
+
+.accreditation .sign-up {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  width: 60px;
+}
+
+.accreditation .overlap-group19 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 61px;
+  min-width: 1920px;
+  padding: 19px 666px;
+}
+
+.accreditation .copyright-2024-ue-c {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.accreditation .group-373 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 666px;
+  min-height: 171px;
+  width: 472px;
+}
+
+.accreditation .overlap-group {
+  height: 53px;
+  position: relative;
+  width: 275px;
+}
+
+.accreditation .name {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.accreditation .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 194px;
+  min-width: 464px;
+}
+
+.accreditation .overlap-group-1 {
+  align-items: center;
+  background-color: var(--hint-of-red);
+  display: flex;
+  height: 38px;
+  min-width: 38px;
+  padding: 0 8px;
+}
+
+.accreditation .group-container {
+  align-items: flex-end;
+  display: flex;
+  margin-right: -1602px;
+  margin-top: 1026px;
+  min-width: 1517px;
+}
+
+.accreditation .group-359 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 19px;
+  min-height: 171px;
+  width: 472px;
+}
+
+.accreditation .group-357 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 14476px;
+  height: 457px;
+  margin-left: 35px;
+  width: 490px;
+}
+
+.accreditation .group-33 {
+  height: 238px;
+  margin-left: -14926px;
+  margin-top: 7756px;
+  width: 464px;
+}
+
+.accreditation .group-354 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 267px;
+  min-height: 171px;
+  width: 472px;
+}
+
+.accreditation .group-358 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 14475px;
+  height: 457px;
+  margin-left: 30px;
+  width: 490px;
+}
+
+.accreditation .accreditation-2 {
+  letter-spacing: 0;
+  position: absolute;
+}
+
+.accreditation .flex-col-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.accreditation .infouecampuscom-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  min-width: 157px;
+}
+
+.accreditation .programs-2 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.accreditation .sort-left-3 {
+  height: 15px;
+  position: absolute;
+  top: 35px;
+  width: 15px;
+}
+
+.accreditation .surname-3 {
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  width: 914px;
+}

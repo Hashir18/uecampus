@@ -1,0 +1,1095 @@
+/* screen - scholarship */
+
+.scholarship {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 6153px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.scholarship .overlap-group7 {
+  align-items: center;
+  background-color: var(--royal-purple);
+  display: flex;
+  height: 45px;
+  margin-left: -10px;
+  margin-top: -4px;
+  min-width: 1920px;
+  padding: 0 62px;
+}
+
+.scholarship .have-any-questions {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  min-height: 22px;
+  min-width: 195px;
+}
+
+.scholarship .email {
+  height: 25px;
+  margin-left: 34px;
+  width: 25px;
+}
+
+.scholarship .infouecampuscom {
+  margin-bottom: 3.0px;
+  margin-left: 10px;
+  min-height: 22px;
+  min-width: 157px;
+}
+
+.scholarship .phone {
+  height: 25px;
+  margin-left: 21px;
+  width: 25px;
+}
+
+.scholarship .phone-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 11px;
+  min-height: 22px;
+  min-width: 128px;
+}
+
+.scholarship .navbar {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  margin-right: 20.0px;
+  margin-top: 5px;
+  min-width: 1796px;
+}
+
+.scholarship .navbar-link-programs {
+  min-width: 92px;
+}
+
+.scholarship .sort-left {
+  height: 15px;
+  margin-left: 6px;
+  margin-top: 1.69px;
+  width: 15px;
+}
+
+.scholarship .navbar-link-diplomas {
+  margin-left: 33px;
+  min-width: 90px;
+}
+
+.scholarship .navbar-link-about-us {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.31px;
+  margin-left: 38px;
+  min-height: 22px;
+  min-width: 88px;
+}
+
+.scholarship .navbar-link-scholarships {
+  margin-left: 38px;
+  min-width: 121px;
+}
+
+.scholarship .x1-9d8512e0-removebg-preview-1 {
+  margin-left: 245px;
+}
+
+.scholarship .navbar-link-login {
+  margin-left: 561px;
+  min-width: 54px;
+}
+
+.scholarship .overlap-group13 {
+  align-items: flex-start;
+  background-color: var(--bright-gray);
+  border-radius: 10px;
+  display: flex;
+  height: 49px;
+  margin-left: 33px;
+  margin-top: 1.69px;
+  min-width: 160px;
+  padding: 12px 40px;
+}
+
+.scholarship .place {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.scholarship .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  flex-direction: column;
+  margin-right: -1592px;
+  margin-top: 4px;
+  min-height: 6020px;
+  width: 3613px;
+}
+
+.scholarship .flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  gap: 97px;
+  height: 1429px;
+  margin-left: 91px;
+  min-width: 2507px;
+}
+
+.scholarship .flex-col-1 {
+  align-items: center;
+  min-height: 1429px;
+  width: 1920px;
+}
+
+.scholarship .rectangle-6 {
+  background-color: var(--royal-purple);
+  height: 3px;
+  width: 1920px;
+}
+
+.scholarship .overlap-group9 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-image: url(../img/group-452.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 389px;
+  padding: 71px 496px;
+  width: 1910px;
+}
+
+.scholarship .title {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 121.5px;
+  margin-left: 38.0px;
+  margin-top: 62px;
+  min-height: 122px;
+  text-align: center;
+  width: 696px;
+}
+
+.scholarship .unlock-financial-sup {
+  color: var(--hint-of-red-2);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 63px;
+  text-align: center;
+  width: 909px;
+}
+
+.scholarship .at-ue-campus-we-beli {
+  color: transparent;
+  font-family: var(--font-family-montserrat);
+  font-size: 40px;
+  font-weight: 600;
+  margin-right: 28.0px;
+  margin-top: 111px;
+  min-height: 191px;
+  text-align: center;
+  width: 1756px;
+}
+
+.scholarship .span1 {
+  color: var(--royal-purple);
+}
+
+.scholarship .rectangle-94 {
+  align-self: flex-start;
+  background-color: var(--white);
+  height: 9px;
+  margin-left: 131px;
+  margin-top: 96px;
+  width: 29px;
+}
+
+.scholarship .flex-row-2 {
+  align-items: center;
+  display: flex;
+  gap: 59px;
+  margin-left: 21.0px;
+  margin-top: 7px;
+  min-width: 1771px;
+}
+
+.scholarship .image-10 {
+  height: 623px;
+  object-fit: cover;
+  width: 1000px;
+}
+
+.scholarship .overlap-group12 {
+  height: 266px;
+  margin-bottom: 1.0px;
+  position: relative;
+  width: 712px;
+}
+
+.scholarship .scholarships-we-offer {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 712px;
+}
+
+.scholarship .academic-excellence {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 90px;
+  width: 559px;
+}
+
+.scholarship .group-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 45px;
+  margin-bottom: 149px;
+  min-height: 673px;
+  width: 490px;
+}
+
+.scholarship .group-372 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  height: 457px;
+  width: 490px;
+}
+
+.scholarship .group-337 {
+  height: 238px;
+  margin-left: 10196px;
+  margin-top: 7684px;
+  width: 464px;
+}
+
+.scholarship .group-373 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-left: 8.0px;
+  min-height: 171px;
+  width: 472px;
+}
+
+.scholarship .overlap-group {
+  height: 53px;
+  position: relative;
+  width: 275px;
+}
+
+.scholarship .name {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.scholarship .flex-row {
+  align-items: center;
+  min-width: 464px;
+}
+
+.scholarship .overlap-group-1 {
+  align-items: center;
+  background-color: var(--hint-of-red);
+  display: flex;
+  height: 38px;
+  min-width: 38px;
+  padding: 0 8px;
+}
+
+.scholarship .flex-col-2 {
+  align-items: flex-start;
+  min-height: 4397px;
+  width: 3613px;
+}
+
+.scholarship .overlap-group4 {
+  background-color: var(--bright-gray);
+  height: 745px;
+  margin-left: 77px;
+  position: relative;
+  width: 1934px;
+}
+
+.scholarship .overlap-group-2 {
+  height: 745px;
+  left: 74px;
+  position: absolute;
+  top: 0;
+  width: 1860px;
+}
+
+.scholarship .rectangle-25 {
+  height: 745px;
+  left: 1127px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 733px;
+}
+
+.scholarship .academic-excellence-scholarship {
+  left: 0;
+  top: 150px;
+  width: 1718px;
+}
+
+.scholarship .this-scholarship-is {
+  left: 74px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 274px;
+  width: 917px;
+}
+
+.scholarship .overlap-group10 {
+  height: 745px;
+  margin-left: 91px;
+  margin-top: 284px;
+  position: relative;
+  width: 1934px;
+}
+
+.scholarship .group-453 {
+  background-color: var(--bright-gray);
+  display: flex;
+  height: 745px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1934px;
+}
+
+.scholarship .rectangle-25-1 {
+  height: 745px;
+  margin-left: 1201.1px;
+  object-fit: cover;
+  width: 728.92px;
+}
+
+.scholarship .scholarships-for-res {
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 197px;
+  width: 1127px;
+}
+
+.scholarship .we-are-committed-to {
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 371px;
+  width: 917px;
+}
+
+.scholarship .overlap-group11 {
+  height: 308px;
+  margin-left: 101px;
+  margin-top: 326px;
+  position: relative;
+  width: 1924px;
+}
+
+.scholarship .contact-us {
+  left: 1713px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 211px;
+}
+
+.scholarship .rectangle-42 {
+  background-color: var(--gallery);
+  height: 262px;
+  left: 1044px;
+  position: absolute;
+  top: 25px;
+  width: 875px;
+}
+
+.scholarship .university-of-alabam {
+  height: 308px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1301px;
+}
+
+.scholarship .university-of-alabam-1 {
+  height: 308px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1301px;
+}
+
+.scholarship .rectangle-43 {
+  background-color: var(--bright-gray);
+  border-radius: 10px;
+  height: 60px;
+  left: 1188px;
+  position: absolute;
+  top: 77px;
+  width: 259px;
+}
+
+.scholarship .academic-excellence-1 {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: 13px;
+  font-weight: 700;
+  left: 1240px;
+  text-align: center;
+  top: 95px;
+  width: 155px;
+}
+
+.scholarship .rectangle-44 {
+  background-color: var(--bright-gray);
+  border-radius: 10px;
+  height: 60px;
+  left: 1188px;
+  position: absolute;
+  top: 173px;
+  width: 259px;
+}
+
+.scholarship .resident-country {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: 14px;
+  font-weight: 700;
+  left: 1240px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 191px;
+  width: 155px;
+}
+
+.scholarship .apply-for-scholarship {
+  left: 690px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 81px;
+}
+
+.scholarship .join-ue-campus-today {
+  left: 305px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 166px;
+  width: 806px;
+}
+
+.scholarship .rectangle-45 {
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 9px;
+  left: 1082px;
+  position: absolute;
+  top: 137px;
+  width: 29px;
+}
+
+.scholarship .group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 240px;
+  min-width: 3613px;
+}
+
+.scholarship .overlap-group8 {
+  height: 1135px;
+  position: relative;
+  width: 2161px;
+}
+
+.scholarship .rectangle-97 {
+  background-color: var(--royal-purple);
+  height: 808px;
+  left: 0;
+  position: absolute;
+  top: 94px;
+  width: 2161px;
+}
+
+.scholarship .rectangle-37 {
+  background-color: var(--alto-2);
+  border-radius: 50px;
+  height: 589px;
+  left: 171px;
+  position: absolute;
+  top: 214px;
+  width: 1012px;
+}
+
+.scholarship .have-any-questions-1 {
+  left: 247px;
+  letter-spacing: 0.96px;
+  line-height: 80.4px;
+  position: absolute;
+  top: 266px;
+  white-space: nowrap;
+  width: 610px;
+}
+
+.scholarship .visit-our-faq-page-o {
+  left: 247px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 368px;
+  width: 702px;
+}
+
+.scholarship .overlap-group5 {
+  align-items: center;
+  background-color: var(--gigas);
+  border-radius: 22px;
+  display: flex;
+  height: 77px;
+  justify-content: flex-end;
+  left: 834px;
+  min-width: 230px;
+  position: absolute;
+  top: 630px;
+}
+
+.scholarship .contact-us-1 {
+  letter-spacing: 0.64px;
+  line-height: normal;
+  min-height: 41px;
+  width: 206px;
+}
+
+.scholarship .whats-app {
+  height: 66px;
+  left: 235px;
+  position: absolute;
+  top: 441px;
+  width: 86px;
+}
+
+.scholarship .envelope {
+  height: 56px;
+  left: 235px;
+  position: absolute;
+  top: 549px;
+  width: 98px;
+}
+
+.scholarship .call {
+  height: 62px;
+  left: 241px;
+  position: absolute;
+  top: 643px;
+  width: 75px;
+}
+
+.scholarship .message-us-on-whats-app-now {
+  left: 333px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 456px;
+  width: 384px;
+}
+
+.scholarship .infouecampuscom-1 {
+  left: 337px;
+  position: absolute;
+  top: 558px;
+  width: 384px;
+}
+
+.scholarship .phone-2 {
+  left: 337px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 655px;
+  width: 384px;
+}
+
+.scholarship .rectangle-4473 {
+  height: 1135px;
+  left: 1168px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 853px;
+}
+
+.scholarship .group-357 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 9710px;
+  height: 457px;
+  margin-left: 442px;
+  margin-top: 64px;
+  width: 490px;
+}
+
+.scholarship .group-354 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-left: 14px;
+  margin-top: 267px;
+  min-height: 171px;
+  width: 472px;
+}
+
+.scholarship .group-33 {
+  height: 238px;
+  margin-top: 7684px;
+  width: 464px;
+}
+
+.scholarship .group-358 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 9711px;
+  height: 457px;
+  margin-left: 30px;
+  margin-top: 64px;
+  width: 490px;
+}
+
+.scholarship .overlap-group6 {
+  align-items: center;
+  background-color: var(--gallery);
+  display: flex;
+  flex-direction: column;
+  gap: 95px;
+  margin-left: 91px;
+  margin-top: 124px;
+  min-height: 490px;
+  width: 1920px;
+}
+
+.scholarship .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 73px;
+  min-width: 1796px;
+}
+
+.scholarship .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 95px;
+  height: 261px;
+  min-width: 1107px;
+}
+
+.scholarship .flex-col-3 {
+  align-items: flex-start;
+  gap: 2px;
+  min-height: 261px;
+  width: 864px;
+}
+
+.scholarship .flex-row-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 187px;
+  min-width: 864px;
+}
+
+.scholarship .flex-col-4 {
+  align-items: flex-start;
+  align-self: flex-end;
+  gap: 15px;
+  min-height: 186px;
+  width: 497px;
+}
+
+.scholarship .at-ue-campus-we-unde {
+  min-height: 88px;
+  width: 497px;
+}
+
+.scholarship .flex-col-5 {
+  align-items: flex-start;
+  margin-left: 74px;
+  min-height: 170px;
+  width: 76px;
+}
+
+.scholarship .courses {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 76px;
+}
+
+.scholarship .bachelors-masters-dba {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 19px;
+  min-height: 66px;
+}
+
+.scholarship .apply {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 35px;
+  min-height: 25px;
+  width: 76px;
+}
+
+.scholarship .flex-col-6 {
+  align-items: flex-start;
+  margin-left: 95px;
+  margin-top: 2px;
+  min-height: 170px;
+  width: 122px;
+}
+
+.scholarship .programs {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 92px;
+}
+
+.scholarship .ppa-walsh-college-diploma {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 19px;
+  min-height: 66px;
+}
+
+.scholarship .online-study {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 35px;
+  min-height: 25px;
+  width: 122px;
+}
+
+.scholarship .flex-row-6 {
+  align-items: flex-end;
+  display: flex;
+  height: 72px;
+  min-width: 857px;
+}
+
+.scholarship .overlap-group15 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.scholarship .you-tube {
+  height: 25px;
+  width: 25px;
+}
+
+.scholarship .linked-in-circled {
+  height: 50px;
+  margin-left: 10px;
+  width: 50px;
+}
+
+.scholarship .overlap-group18 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.scholarship .tik-tok {
+  height: 25px;
+  width: 25px;
+}
+
+.scholarship .overlap-group16 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  margin-left: 15px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.scholarship .twitter-x {
+  height: 25px;
+  width: 25px;
+}
+
+.scholarship .instagram-circle {
+  height: 50px;
+  margin-left: 12px;
+  width: 50px;
+}
+
+.scholarship .facebook {
+  height: 50px;
+  margin-left: 7px;
+  width: 50px;
+}
+
+.scholarship .fees-apply-now {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 247px;
+  min-height: 44px;
+  min-width: 81px;
+}
+
+.scholarship .online-degrees-online-lms {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 90px;
+  margin-top: 2px;
+  min-height: 44px;
+}
+
+.scholarship .about-us-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-top: 2px;
+  min-height: 196px;
+  width: 148px;
+}
+
+.scholarship .about-us {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.scholarship .about-us-faq-accredi {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 154px;
+}
+
+.scholarship .flex-col-7 {
+  align-items: flex-start;
+  align-self: flex-end;
+  margin-left: 51px;
+  min-height: 259px;
+  width: 272px;
+}
+
+.scholarship .contact-us-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.scholarship .flex-row-7 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin-top: 19px;
+  min-width: 192px;
+}
+
+.scholarship .envelope-1 {
+  height: 25px;
+  width: 25px;
+}
+
+.scholarship .infouecampuscom-2 {
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  min-width: 157px;
+}
+
+.scholarship .phone-container {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin-top: 11px;
+  min-width: 163px;
+}
+
+.scholarship .phone-3 {
+  height: 25px;
+  width: 25px;
+}
+
+.scholarship .phone-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  min-width: 128px;
+}
+
+.scholarship .image-31 {
+  height: 140px;
+  margin-top: 14px;
+  object-fit: cover;
+  width: 272px;
+}
+
+.scholarship .flex-col-8 {
+  align-items: flex-start;
+  gap: 18px;
+  margin-left: 50px;
+  margin-top: 2px;
+  min-height: 82px;
+  width: 316px;
+}
+
+.scholarship .newsletter {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.scholarship .overlap-group14 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  gap: 81px;
+  justify-content: flex-end;
+  min-width: 316px;
+}
+
+.scholarship .insert-email {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  width: 126px;
+}
+
+.scholarship .overlap-group-3 {
+  align-items: center;
+  background-color: var(--royal-purple);
+  border-radius: 5px;
+  display: flex;
+  gap: 9px;
+  min-width: 95px;
+}
+
+.scholarship .rectangle-96 {
+  background-color: var(--royal-purple);
+  height: 39px;
+  width: 9px;
+}
+
+.scholarship .sign-up {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  width: 60px;
+}
+
+.scholarship .overlap-group17 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 61px;
+  min-width: 1920px;
+  padding: 19px 666px;
+}
+
+.scholarship .copyright-2024-ue-c {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.scholarship .academic-excellence-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.scholarship .flex {
+  display: flex;
+  gap: 194px;
+}
+
+.scholarship .flex-col-9 {
+  display: flex;
+  flex-direction: column;
+}
+
+.scholarship .infouecampuscom-3 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scholarship .navbar-link {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.31px;
+  min-height: 22px;
+}
+
+.scholarship .x1-9d8512e0-removebg-preview {
+  height: 83px;
+  object-fit: cover;
+  width: 180px;
+}

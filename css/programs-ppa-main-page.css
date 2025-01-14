@@ -1,0 +1,1142 @@
+/* screen - programs-ppa-main-page */
+
+.programs-ppa-main-page {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3862px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.programs-ppa-main-page .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: -1498px;
+  margin-top: -2817px;
+  min-height: 3282px;
+  width: 3418px;
+}
+
+.programs-ppa-main-page .rectangle-95 {
+  align-self: flex-start;
+  height: 585px;
+  width: 1852px;
+}
+
+.programs-ppa-main-page .overlap-group16 {
+  align-items: center;
+  background-color: var(--royal-purple);
+  display: flex;
+  height: 45px;
+  margin-top: 2232px;
+  min-width: 1920px;
+  padding: 0 62px;
+}
+
+.programs-ppa-main-page .have-any-questions {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  min-height: 22px;
+  min-width: 195px;
+}
+
+.programs-ppa-main-page .email {
+  height: 25px;
+  margin-left: 34px;
+  width: 25px;
+}
+
+.programs-ppa-main-page .infouecampuscom {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 10px;
+  min-height: 22px;
+  min-width: 157px;
+}
+
+.programs-ppa-main-page .phone {
+  height: 25px;
+  margin-left: 21px;
+  width: 25px;
+}
+
+.programs-ppa-main-page .phone-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 11px;
+  min-height: 22px;
+  min-width: 128px;
+}
+
+.programs-ppa-main-page .navbar {
+  align-items: center;
+  display: flex;
+  margin-right: 62px;
+  margin-top: 5px;
+  min-width: 1796px;
+}
+
+.programs-ppa-main-page .navbar-link-programs {
+  min-width: 92px;
+}
+
+.programs-ppa-main-page .sort-left {
+  height: 15px;
+  margin-left: 6px;
+  margin-top: 1.69px;
+  width: 15px;
+}
+
+.programs-ppa-main-page .navbar-link-diplomas {
+  margin-left: 33px;
+  min-width: 90px;
+}
+
+.programs-ppa-main-page .navbar-link-about-us {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.31px;
+  margin-left: 38px;
+  min-height: 22px;
+  min-width: 88px;
+}
+
+.programs-ppa-main-page .navbar-link-scholarships {
+  margin-left: 38px;
+  min-width: 121px;
+}
+
+.programs-ppa-main-page .x1-9d8512e0-removebg-preview-1 {
+  margin-left: 245px;
+}
+
+.programs-ppa-main-page .navbar-link-login {
+  margin-left: 561px;
+  min-width: 54px;
+}
+
+.programs-ppa-main-page .overlap-group21 {
+  align-items: flex-start;
+  background-color: var(--bright-gray);
+  border-radius: 10px;
+  display: flex;
+  height: 49px;
+  margin-left: 33px;
+  margin-top: 1.69px;
+  min-width: 160px;
+  padding: 12px 40px;
+}
+
+.programs-ppa-main-page .place {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.programs-ppa-main-page .overlap-group17 {
+  height: 329px;
+  margin-top: 3px;
+  position: relative;
+  width: 1920px;
+}
+
+.programs-ppa-main-page .rectangle-6 {
+  background-color: var(--royal-purple);
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1920px;
+}
+
+.programs-ppa-main-page .group-453 {
+  height: 329px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.programs-ppa-main-page .all-programs {
+  height: 114px;
+  left: 512px;
+  letter-spacing: 1.28px;
+  line-height: 107.2px;
+  position: absolute;
+  text-align: center;
+  top: 90px;
+  white-space: nowrap;
+  width: 896px;
+}
+
+.programs-ppa-main-page .programs-that-help-b {
+  color: var(--white);
+  font-family: var(--font-family-open_sans);
+  font-size: 28px;
+  font-weight: 400;
+  left: 422px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 208px;
+  width: 1077px;
+}
+
+.programs-ppa-main-page .flex-row-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 720px;
+  height: 120px;
+  margin-left: 41.0px;
+  margin-top: 113px;
+  min-width: 1675px;
+}
+
+.programs-ppa-main-page .flex-col-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  gap: 15px;
+  min-height: 107px;
+  width: 332px;
+}
+
+.programs-ppa-main-page .showing1-6of21results {
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.programs-ppa-main-page .group-1 {
+  height: 62px;
+  margin-left: 37.79px;
+  width: 99px;
+}
+
+.programs-ppa-main-page .group-45 {
+  align-items: center;
+  display: flex;
+  gap: 26px;
+  min-width: 623px;
+}
+
+.programs-ppa-main-page .overlap-group4 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-38@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 124px;
+  height: 79px;
+  justify-content: flex-end;
+  min-width: 422px;
+  padding: 25px 33px;
+}
+
+.programs-ppa-main-page .overlap-group-7 {
+  align-items: center;
+  background-image: url(../img/rectangle-39@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 4px;
+  height: 69px;
+  justify-content: flex-end;
+  margin-bottom: 1.0px;
+  min-width: 174px;
+  padding: 11.5px 20.0px;
+}
+
+.programs-ppa-main-page .image {
+  align-self: flex-end;
+  height: 45px;
+  object-fit: cover;
+  width: 46px;
+}
+
+.programs-ppa-main-page .flex-row-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 4197px;
+  margin-top: 30px;
+  min-width: 3522px;
+}
+
+.programs-ppa-main-page .flex-col-2 {
+  align-items: center;
+  align-self: flex-start;
+  min-height: 4030px;
+  width: 1920px;
+}
+
+.programs-ppa-main-page .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 10.0px;
+  min-width: 1638px;
+}
+
+.programs-ppa-main-page .overlap-group1 {
+  height: 534px;
+  position: relative;
+  width: 523px;
+}
+
+.programs-ppa-main-page .group {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  height: 503px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 523px;
+}
+
+.programs-ppa-main-page .group-337 {
+  height: 261.85px;
+  margin-left: 13.9px;
+  margin-top: 15.4px;
+  width: 495.22px;
+}
+
+.programs-ppa-main-page .uiux-design-for-beginners {
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 313px;
+  width: 288px;
+}
+
+.programs-ppa-main-page .uiux-design {
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 283px;
+  width: 112px;
+}
+
+.programs-ppa-main-page .group-container {
+  height: 83px;
+  left: 17px;
+  position: absolute;
+  top: 411px;
+  width: 399px;
+}
+
+.programs-ppa-main-page .group-369 {
+  display: flex;
+  gap: 12.9px;
+  height: 31px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 399px;
+}
+
+.programs-ppa-main-page .group-343 {
+  display: flex;
+  gap: 6.4px;
+  margin-top: 2.2px;
+  width: 125.8px;
+}
+
+.programs-ppa-main-page .time-svgrepo-com-1 {
+  height: 20.9px;
+  margin-top: 3.3px;
+  width: 20.28px;
+}
+
+.programs-ppa-main-page .x22hr-30min {
+  height: 26.4px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 0;
+  width: 97.12px;
+}
+
+.programs-ppa-main-page .group-342 {
+  display: flex;
+  gap: 7.5px;
+  height: 30.81px;
+  width: 136.48px;
+}
+
+.programs-ppa-main-page .video-svgrepo-com-1 {
+  height: 30.81px;
+  width: 29.88px;
+}
+
+.programs-ppa-main-page .address {
+  height: 26.4px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 2.2px;
+  width: 97.12px;
+}
+
+.programs-ppa-main-page .group-341 {
+  display: flex;
+  gap: 9.6px;
+  margin-top: 2.2px;
+  width: 113px;
+}
+
+.programs-ppa-main-page .download-svgrepo-com-1 {
+  height: 19.8px;
+  margin-top: 3.3px;
+  width: 19.21px;
+}
+
+.programs-ppa-main-page .address-1 {
+  height: 26.4px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 0;
+  width: 82.18px;
+}
+
+.programs-ppa-main-page .group-2 {
+  height: 62px;
+  left: 11px;
+  position: absolute;
+  top: 21px;
+  width: 99px;
+}
+
+.programs-ppa-main-page .overlap-group {
+  align-items: center;
+  background-color: var(--bright-gray);
+  border-radius: 96px;
+  display: flex;
+  height: 61px;
+  left: 141px;
+  min-width: 221px;
+  padding: 0 38.4px;
+  position: absolute;
+  top: 473px;
+}
+
+.programs-ppa-main-page .line {
+  height: 1px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 397px;
+  width: 495px;
+}
+
+.programs-ppa-main-page .overlap-group-1 {
+  height: 534px;
+  margin-left: 32px;
+  position: relative;
+  width: 523px;
+}
+
+.programs-ppa-main-page .rectangle-42 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  height: 503px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 523px;
+}
+
+.programs-ppa-main-page .group-33 {
+  height: 262px;
+  left: 14px;
+  position: absolute;
+  top: 15px;
+  width: 495px;
+}
+
+.programs-ppa-main-page .uiux-design-for-beginners-1 {
+  left: 15px;
+  top: 322px;
+}
+
+.programs-ppa-main-page .uiux-design-1 {
+  left: 15px;
+  top: 293px;
+}
+
+.programs-ppa-main-page .group-344 {
+  display: flex;
+  gap: 12.9px;
+  height: 31px;
+  left: 15px;
+  position: absolute;
+  top: 416px;
+  width: 399px;
+}
+
+.programs-ppa-main-page .overlap-group-2 {
+  align-items: flex-end;
+  background-color: var(--bright-gray);
+  border-radius: 96px;
+  display: flex;
+  height: 61px;
+  left: 153px;
+  min-width: 221px;
+  padding: 14.3px 38.4px;
+  position: absolute;
+  top: 473px;
+}
+
+.programs-ppa-main-page .line-1 {
+  height: 1px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 397px;
+  width: 495px;
+}
+
+.programs-ppa-main-page .group-345 {
+  height: 18px;
+  left: 416px;
+  position: absolute;
+  top: 297px;
+  width: 94px;
+}
+
+.programs-ppa-main-page .overlap-group-3 {
+  height: 538px;
+  margin-left: 33px;
+  position: relative;
+  width: 523px;
+}
+
+.programs-ppa-main-page .uiux-design-for-beginners-2 {
+  left: 14px;
+  top: 327px;
+}
+
+.programs-ppa-main-page .uiux-design-2 {
+  left: 14px;
+  top: 297px;
+}
+
+.programs-ppa-main-page .overlap-group-4 {
+  align-items: flex-end;
+  background-color: var(--bright-gray);
+  border-radius: 96px;
+  display: flex;
+  height: 61px;
+  left: 152px;
+  min-width: 221px;
+  padding: 14.3px 38.4px;
+  position: absolute;
+  top: 477px;
+}
+
+.programs-ppa-main-page .line-1-1 {
+  height: 1px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 402px;
+  width: 495px;
+}
+
+.programs-ppa-main-page .overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 4.0px;
+  margin-top: 64px;
+  min-width: 1638px;
+}
+
+.programs-ppa-main-page .overlap-group11 {
+  align-items: flex-end;
+  background-color: var(--bright-gray);
+  border-radius: 22px;
+  display: flex;
+  height: 95px;
+  justify-content: flex-end;
+  margin-left: 13.0px;
+  margin-top: 144px;
+  min-width: 305px;
+  padding: 22.0px 9.8px;
+}
+
+.programs-ppa-main-page .overlap-group20 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-59.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 143px;
+  justify-content: flex-end;
+  margin-left: 14.0px;
+  margin-top: 199px;
+  min-width: 1122px;
+  padding: 21px 39px;
+}
+
+.programs-ppa-main-page .image-46 {
+  align-self: center;
+  height: 75px;
+  margin-top: 6.0px;
+  object-fit: cover;
+  width: 75px;
+}
+
+.programs-ppa-main-page .let-us-help-finding-your-right-programs {
+  color: transparent;
+  font-family: var(--font-family-roboto);
+  font-size: 35px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1px;
+  margin-left: 25px;
+  min-height: 82px;
+  min-width: 451px;
+}
+
+.programs-ppa-main-page .span0 {
+  color: var(--bright-gray);
+}
+
+.programs-ppa-main-page .span1 {
+  color: var(--gigas);
+  font-weight: 600;
+}
+
+.programs-ppa-main-page .overlap-group12 {
+  align-items: flex-end;
+  background-color: var(--gigas);
+  border-radius: 5000px;
+  display: flex;
+  height: 89px;
+  justify-content: flex-end;
+  margin-left: 188px;
+  min-width: 281px;
+  padding: 20.7px 28.0px;
+}
+
+.programs-ppa-main-page .contact-us {
+  color: var(--white);
+  font-family: var(--font-family-lexend);
+  font-size: 30px;
+  font-weight: 600;
+  height: 46px;
+  letter-spacing: 0.60px;
+  line-height: normal;
+  text-align: center;
+  width: 222px;
+}
+
+.programs-ppa-main-page .group-365 {
+  height: 487px;
+  margin-top: 179px;
+  width: 1920px;
+}
+
+.programs-ppa-main-page .overlap-group14 {
+  align-items: center;
+  background-color: var(--gallery);
+  display: flex;
+  flex-direction: column;
+  gap: 95px;
+  margin-top: 257px;
+  min-height: 490px;
+  width: 1920px;
+}
+
+.programs-ppa-main-page .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 73px;
+  min-width: 1796px;
+}
+
+.programs-ppa-main-page .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 95px;
+  height: 261px;
+  min-width: 1107px;
+}
+
+.programs-ppa-main-page .flex-col-3 {
+  align-items: flex-start;
+  gap: 2px;
+  min-height: 261px;
+  width: 864px;
+}
+
+.programs-ppa-main-page .flex-row-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 187px;
+  min-width: 864px;
+}
+
+.programs-ppa-main-page .flex-col-4 {
+  align-items: flex-start;
+  align-self: flex-end;
+  gap: 15px;
+  min-height: 186px;
+  width: 497px;
+}
+
+.programs-ppa-main-page .at-ue-campus-we-unde {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 88px;
+  width: 497px;
+}
+
+.programs-ppa-main-page .flex-col-5 {
+  align-items: flex-start;
+  margin-left: 74px;
+  min-height: 170px;
+  width: 76px;
+}
+
+.programs-ppa-main-page .courses {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 76px;
+}
+
+.programs-ppa-main-page .bachelors-masters-dba {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 19px;
+  min-height: 66px;
+}
+
+.programs-ppa-main-page .apply {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 35px;
+  min-height: 25px;
+  width: 76px;
+}
+
+.programs-ppa-main-page .flex-col-6 {
+  align-items: flex-start;
+  margin-left: 95px;
+  margin-top: 2px;
+  min-height: 170px;
+  width: 122px;
+}
+
+.programs-ppa-main-page .programs {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 92px;
+}
+
+.programs-ppa-main-page .ppa-walsh-college-diploma {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 19px;
+  min-height: 66px;
+}
+
+.programs-ppa-main-page .online-study {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 35px;
+  min-height: 25px;
+  width: 122px;
+}
+
+.programs-ppa-main-page .flex-row-6 {
+  align-items: flex-end;
+  display: flex;
+  height: 72px;
+  min-width: 857px;
+}
+
+.programs-ppa-main-page .overlap-group26 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.programs-ppa-main-page .you-tube {
+  height: 25px;
+  width: 25px;
+}
+
+.programs-ppa-main-page .linked-in-circled {
+  height: 50px;
+  margin-left: 10px;
+  width: 50px;
+}
+
+.programs-ppa-main-page .overlap-group24 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.programs-ppa-main-page .tik-tok {
+  height: 25px;
+  width: 25px;
+}
+
+.programs-ppa-main-page .overlap-group23 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  margin-left: 15px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.programs-ppa-main-page .twitter-x {
+  height: 25px;
+  width: 25px;
+}
+
+.programs-ppa-main-page .instagram-circle {
+  height: 50px;
+  margin-left: 12px;
+  width: 50px;
+}
+
+.programs-ppa-main-page .facebook {
+  height: 50px;
+  margin-left: 7px;
+  width: 50px;
+}
+
+.programs-ppa-main-page .fees-apply-now {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 247px;
+  min-height: 44px;
+  min-width: 81px;
+}
+
+.programs-ppa-main-page .online-degrees-online-lms {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 90px;
+  margin-top: 2px;
+  min-height: 44px;
+}
+
+.programs-ppa-main-page .about-us-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-top: 2px;
+  min-height: 196px;
+  width: 148px;
+}
+
+.programs-ppa-main-page .about-us {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.programs-ppa-main-page .about-us-faq-accredi {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 154px;
+}
+
+.programs-ppa-main-page .flex-col-7 {
+  align-items: flex-start;
+  align-self: flex-end;
+  margin-left: 51px;
+  min-height: 259px;
+  width: 272px;
+}
+
+.programs-ppa-main-page .contact-us-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.programs-ppa-main-page .flex-row-7 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin-top: 19px;
+  min-width: 192px;
+}
+
+.programs-ppa-main-page .envelope {
+  height: 25px;
+  width: 25px;
+}
+
+.programs-ppa-main-page .infouecampuscom-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  min-width: 157px;
+}
+
+.programs-ppa-main-page .phone-container {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin-top: 11px;
+  min-width: 163px;
+}
+
+.programs-ppa-main-page .phone-2 {
+  height: 25px;
+  width: 25px;
+}
+
+.programs-ppa-main-page .phone-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  min-width: 128px;
+}
+
+.programs-ppa-main-page .image-31 {
+  height: 140px;
+  margin-top: 14px;
+  object-fit: cover;
+  width: 272px;
+}
+
+.programs-ppa-main-page .flex-col-8 {
+  align-items: flex-start;
+  gap: 18px;
+  margin-left: 50px;
+  margin-top: 2px;
+  min-height: 82px;
+  width: 316px;
+}
+
+.programs-ppa-main-page .newsletter {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.programs-ppa-main-page .overlap-group22 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  gap: 81px;
+  justify-content: flex-end;
+  min-width: 316px;
+}
+
+.programs-ppa-main-page .insert-email {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  width: 126px;
+}
+
+.programs-ppa-main-page .rectangle-94 {
+  background-color: var(--royal-purple);
+  height: 39px;
+  width: 9px;
+}
+
+.programs-ppa-main-page .sign-up {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  width: 60px;
+}
+
+.programs-ppa-main-page .overlap-group25 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 61px;
+  min-width: 1920px;
+  padding: 19px 666px;
+}
+
+.programs-ppa-main-page .copyright-2024-ue-c {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.programs-ppa-main-page .rectangle-51 {
+  background-color: var(--white);
+  height: 847px;
+  margin-top: 49px;
+  width: 1920px;
+}
+
+.programs-ppa-main-page .group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3022px;
+  margin-left: 118px;
+  min-height: 3936px;
+  width: 964px;
+}
+
+.programs-ppa-main-page .group-container-2 {
+  border-radius: 14px;
+  height: 457px;
+  position: relative;
+  width: 490px;
+}
+
+.programs-ppa-main-page .group-372 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  height: 457px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 490px;
+}
+
+.programs-ppa-main-page .group-337-1 {
+  height: 238px;
+  margin-left: -1519.0px;
+  margin-top: -2825px;
+  width: 464px;
+}
+
+.programs-ppa-main-page .group-373 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  left: 13px;
+  min-height: 171px;
+  position: absolute;
+  top: 267px;
+  width: 472px;
+}
+
+.programs-ppa-main-page .name {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.programs-ppa-main-page .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 194px;
+  min-width: 464px;
+}
+
+.programs-ppa-main-page .group-357 {
+  align-self: flex-end;
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 1069px;
+  height: 457px;
+  width: 490px;
+}
+
+.programs-ppa-main-page .group-33-1 {
+  height: 238px;
+  margin-left: -1519px;
+  margin-top: -2825px;
+  width: 464px;
+}
+
+.programs-ppa-main-page .group-354 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 267px;
+  min-height: 171px;
+  width: 472px;
+}
+
+.programs-ppa-main-page .group-358 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 1068px;
+  height: 457px;
+  margin-left: 30px;
+  width: 490px;
+}
+
+.programs-ppa-main-page .flex-col-9 {
+  display: flex;
+  flex-direction: column;
+}
+
+.programs-ppa-main-page .navbar-link {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.31px;
+  min-height: 22px;
+}
+
+.programs-ppa-main-page .uiux-design-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  width: 112px;
+}
+
+.programs-ppa-main-page .uiux-design-for-beginners-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  width: 287px;
+}
+
+.programs-ppa-main-page .x1-9d8512e0-removebg-preview {
+  height: 83px;
+  object-fit: cover;
+  width: 180px;
+}

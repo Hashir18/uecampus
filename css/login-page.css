@@ -1,0 +1,991 @@
+/* screen - login-page */
+
+.login-page {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 2432px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.login-page .overlap-group12 {
+  align-items: center;
+  background-color: var(--royal-purple);
+  display: flex;
+  height: 45px;
+  min-width: 1920px;
+  padding: 0 62px;
+}
+
+.login-page .have-any-questions {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  min-height: 22px;
+  min-width: 195px;
+}
+
+.login-page .email {
+  height: 25px;
+  margin-left: 34px;
+  width: 25px;
+}
+
+.login-page .infouecampuscom {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 10px;
+  min-height: 22px;
+  min-width: 157px;
+}
+
+.login-page .phone {
+  height: 25px;
+  margin-left: 21px;
+  width: 25px;
+}
+
+.login-page .phone-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 11px;
+  min-height: 22px;
+  min-width: 128px;
+}
+
+.login-page .navbar {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  margin-top: 5px;
+  min-width: 1796px;
+}
+
+.login-page .navbar-link-programs {
+  min-width: 92px;
+}
+
+.login-page .sort-left {
+  height: 15px;
+  margin-left: 6px;
+  margin-top: 1.69px;
+  width: 15px;
+}
+
+.login-page .navbar-link-diplomas {
+  margin-left: 33px;
+  min-width: 90px;
+}
+
+.login-page .navbar-link-about-us {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.31px;
+  margin-left: 38px;
+  min-height: 22px;
+  min-width: 88px;
+}
+
+.login-page .navbar-link-scholarships {
+  margin-left: 38px;
+  min-width: 121px;
+}
+
+.login-page .x1-9d8512e0-removebg-preview-1 {
+  margin-left: 245px;
+}
+
+.login-page .navbar-link-login {
+  margin-left: 561px;
+  min-width: 54px;
+}
+
+.login-page .overlap-group14 {
+  align-items: flex-start;
+  background-color: var(--bright-gray);
+  border-radius: 10px;
+  display: flex;
+  height: 49px;
+  margin-left: 33px;
+  margin-top: 1.69px;
+  min-width: 160px;
+  padding: 12px 40px;
+}
+
+.login-page .place {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.login-page .flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 4788px;
+  margin-right: -1602px;
+  margin-top: 4px;
+  min-width: 3522px;
+}
+
+.login-page .flex-col {
+  align-self: flex-start;
+  flex-direction: column;
+  min-height: 4621px;
+  width: 1920px;
+}
+
+.login-page .overlap-group10 {
+  height: 329px;
+  position: relative;
+  width: 1920px;
+}
+
+.login-page .rectangle-6 {
+  background-color: var(--royal-purple);
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.login-page .group-453 {
+  height: 329px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.login-page .login {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: 64px;
+  font-weight: 600;
+  height: 114px;
+  left: 549px;
+  letter-spacing: 1.28px;
+  line-height: 92.5px;
+  position: absolute;
+  text-align: center;
+  top: 90px;
+  width: 896px;
+}
+
+.login-page .access-your-account {
+  left: 432px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 208px;
+  width: 1077px;
+}
+
+.login-page .welcome-back-log-i {
+  color: var(--black-2);
+  font-family: var(--font-family-open_sans);
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: 1.08px;
+  line-height: normal;
+  margin-left: 56.0px;
+  margin-top: 185px;
+  min-height: 191px;
+  text-align: center;
+  width: 1756px;
+}
+
+.login-page .overlap-group11 {
+  align-items: flex-start;
+  background-color: var(--concrete);
+  display: flex;
+  gap: 337px;
+  height: 748px;
+  justify-content: flex-end;
+  margin-right: 18.0px;
+  margin-top: 88px;
+  min-width: 1732px;
+  padding: 37px 35.0px;
+}
+
+.login-page .flex-col-1 {
+  align-items: center;
+  min-height: 638px;
+  width: 509px;
+}
+
+.login-page .headline {
+  display: flex;
+  height: 32px;
+  margin-right: 3.51px;
+  width: 506px;
+}
+
+.login-page .welcome-back-please {
+  color: var(--storm-dust);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  height: 31.63px;
+  letter-spacing: 0.72px;
+  line-height: normal;
+  text-align: center;
+  width: 503.51px;
+}
+
+.login-page .email-form {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-left: 1.8px;
+  margin-top: 53px;
+  min-height: 109px;
+  width: 508px;
+}
+
+.login-page .email-or-phone-number {
+  color: var(--bright-gray);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  letter-spacing: 0.72px;
+  line-height: normal;
+  margin-left: 8.34px;
+  min-height: 32px;
+  width: 326px;
+}
+
+.login-page .overlap-group {
+  align-items: flex-end;
+  border: 1px solid;
+  border-color: var(--black-7);
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px #00000040;
+  display: flex;
+  height: 60px;
+  min-width: 504px;
+  padding: 10.0px 7.3px;
+}
+
+.login-page .enter-your-email {
+  color: var(--storm-dust);
+  font-family: var(--font-family-poppins);
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  min-height: 35px;
+  text-align: center;
+  width: 222px;
+}
+
+.login-page .password-form {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  margin-right: 1.51px;
+  margin-top: 39px;
+  min-height: 115px;
+  width: 508px;
+}
+
+.login-page .password {
+  color: var(--bright-gray);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  letter-spacing: 0.72px;
+  line-height: normal;
+  margin-left: 8px;
+  min-height: 32px;
+  width: 152px;
+}
+
+.login-page .text-5 {
+  color: var(--storm-dust);
+  font-family: var(--font-family-poppins);
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  min-height: 35px;
+  text-align: center;
+  width: 151px;
+}
+
+.login-page .remember-forgot {
+  align-items: flex-start;
+  display: flex;
+  gap: 125px;
+  height: 28px;
+  margin-right: 9.66px;
+  margin-top: 63px;
+  min-width: 483px;
+}
+
+.login-page .overlap-group8 {
+  height: 27px;
+  position: relative;
+  width: 177px;
+}
+
+.login-page .remember-me {
+  color: #181818;
+  font-family: var(--font-family-poppins);
+  font-size: 14px;
+  font-weight: 500;
+  left: 20px;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 157px;
+}
+
+.login-page .rectangle-4 {
+  background-color: var(--royal-purple);
+  border: 1px solid;
+  border-color: var(--black-7);
+  border-radius: 4px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 23px;
+}
+
+.login-page .forgot-password {
+  align-self: flex-end;
+  color: #181818;
+  font-family: var(--font-family-poppins);
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  min-height: 27px;
+  text-align: center;
+  width: 177px;
+}
+
+.login-page .overlap-group4 {
+  align-items: flex-end;
+  background-color: var(--royal-purple);
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px #e9444b40;
+  display: flex;
+  height: 60px;
+  justify-content: flex-end;
+  margin-right: 5.51px;
+  margin-top: 14px;
+  min-width: 504px;
+  padding: 12.0px 210.3px;
+}
+
+.login-page .sign-in {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  min-height: 32px;
+  text-align: center;
+  width: 83px;
+}
+
+.login-page .google-container {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--black-7);
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px #00000040;
+  display: flex;
+  gap: 10px;
+  height: 60px;
+  margin-right: 5.8px;
+  margin-top: 16px;
+  min-width: 504px;
+  padding: 8.0px 105.0px;
+}
+
+.login-page .free-icon-google-300221-1 {
+  height: 42px;
+  object-fit: cover;
+  width: 46px;
+}
+
+.login-page .sign-in-with-google {
+  align-self: center;
+  color: var(--black-2);
+  font-family: var(--font-family-poppins);
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  margin-bottom: 3.51px;
+  min-height: 32px;
+  text-align: center;
+  width: 237px;
+}
+
+.login-page .dont-have-an-account-sign-up-fo-free {
+  color: transparent;
+  font-family: var(--font-family-open_sans);
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0.45px;
+  line-height: normal;
+  margin-right: 24.02px;
+  margin-top: 26px;
+  min-height: 22px;
+  text-align: center;
+  width: 347px;
+}
+
+.login-page .span0 {
+  color: #595959;
+  letter-spacing: 0.07px;
+}
+
+.login-page .span1 {
+  color: var(--black-2);
+  letter-spacing: 0.07px;
+}
+
+.login-page .span2 {
+  color: var(--royal-purple);
+  letter-spacing: 0.07px;
+}
+
+.login-page .frame-4 {
+  align-self: center;
+  height: 624px;
+  margin-top: 17.24px;
+  width: 676px;
+}
+
+.login-page .overlap-group9 {
+  align-items: center;
+  background-color: var(--gallery);
+  display: flex;
+  flex-direction: column;
+  gap: 95px;
+  margin-top: 264px;
+  min-height: 490px;
+  width: 1920px;
+}
+
+.login-page .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 73px;
+  min-width: 1796px;
+}
+
+.login-page .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 95px;
+  height: 261px;
+  min-width: 1107px;
+}
+
+.login-page .flex-col-2 {
+  align-items: flex-start;
+  gap: 2px;
+  min-height: 261px;
+  width: 864px;
+}
+
+.login-page .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 187px;
+  min-width: 864px;
+}
+
+.login-page .flex-col-3 {
+  align-items: flex-start;
+  align-self: flex-end;
+  gap: 15px;
+  min-height: 186px;
+  width: 497px;
+}
+
+.login-page .at-ue-campus-we-unde {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 88px;
+  width: 497px;
+}
+
+.login-page .flex-col-4 {
+  align-items: flex-start;
+  margin-left: 74px;
+  min-height: 170px;
+  width: 76px;
+}
+
+.login-page .courses {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 76px;
+}
+
+.login-page .bachelors-masters-dba {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 19px;
+  min-height: 66px;
+}
+
+.login-page .apply {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 35px;
+  min-height: 25px;
+  width: 76px;
+}
+
+.login-page .flex-col-5 {
+  align-items: flex-start;
+  margin-left: 95px;
+  margin-top: 2px;
+  min-height: 170px;
+  width: 122px;
+}
+
+.login-page .programs {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 92px;
+}
+
+.login-page .ppa-walsh-college-diploma {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 19px;
+  min-height: 66px;
+}
+
+.login-page .online-study {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 35px;
+  min-height: 25px;
+  width: 122px;
+}
+
+.login-page .flex-row-5 {
+  align-items: flex-end;
+  display: flex;
+  height: 72px;
+  min-width: 857px;
+}
+
+.login-page .overlap-group17 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.login-page .you-tube {
+  height: 25px;
+  width: 25px;
+}
+
+.login-page .linked-in-circled {
+  height: 50px;
+  margin-left: 10px;
+  width: 50px;
+}
+
+.login-page .overlap-group18 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.login-page .tik-tok {
+  height: 25px;
+  width: 25px;
+}
+
+.login-page .overlap-group16 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  margin-left: 15px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.login-page .twitter-x {
+  height: 25px;
+  width: 25px;
+}
+
+.login-page .instagram-circle {
+  height: 50px;
+  margin-left: 12px;
+  width: 50px;
+}
+
+.login-page .facebook {
+  height: 50px;
+  margin-left: 7px;
+  width: 50px;
+}
+
+.login-page .fees-apply-now {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 247px;
+  min-height: 44px;
+  min-width: 81px;
+}
+
+.login-page .online-degrees-online-lms {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 90px;
+  margin-top: 2px;
+  min-height: 44px;
+}
+
+.login-page .about-us-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-top: 2px;
+  min-height: 196px;
+  width: 148px;
+}
+
+.login-page .about-us {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.login-page .about-us-faq-accredi {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 154px;
+}
+
+.login-page .flex-col-6 {
+  align-items: flex-start;
+  align-self: flex-end;
+  margin-left: 51px;
+  min-height: 259px;
+  width: 272px;
+}
+
+.login-page .contact-us {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.login-page .flex-row-6 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin-top: 19px;
+  min-width: 192px;
+}
+
+.login-page .envelope {
+  height: 25px;
+  width: 25px;
+}
+
+.login-page .infouecampuscom-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  min-width: 157px;
+}
+
+.login-page .phone-container {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin-top: 11px;
+  min-width: 163px;
+}
+
+.login-page .phone-2 {
+  height: 25px;
+  width: 25px;
+}
+
+.login-page .phone-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  min-width: 128px;
+}
+
+.login-page .image-31 {
+  height: 140px;
+  margin-top: 14px;
+  object-fit: cover;
+  width: 272px;
+}
+
+.login-page .flex-col-7 {
+  align-items: flex-start;
+  gap: 18px;
+  margin-left: 50px;
+  margin-top: 2px;
+  min-height: 82px;
+  width: 316px;
+}
+
+.login-page .newsletter {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.login-page .overlap-group15 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  gap: 81px;
+  justify-content: flex-end;
+  min-width: 316px;
+}
+
+.login-page .insert-email {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  width: 126px;
+}
+
+.login-page .overlap-group-3 {
+  align-items: center;
+  background-color: var(--royal-purple);
+  border-radius: 5px;
+  display: flex;
+  gap: 9px;
+  min-width: 95px;
+}
+
+.login-page .rectangle-94 {
+  background-color: var(--royal-purple);
+  height: 39px;
+  width: 9px;
+}
+
+.login-page .sign-up {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  width: 60px;
+}
+
+.login-page .overlap-group19 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 61px;
+  min-width: 1920px;
+  padding: 19px 666px;
+}
+
+.login-page .copyright-2024-ue-c {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.login-page .rectangle-51 {
+  background-color: var(--white);
+  height: 847px;
+  margin-top: 1479px;
+  width: 1920px;
+}
+
+.login-page .group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3022px;
+  margin-left: 118px;
+  min-height: 3936px;
+  width: 964px;
+}
+
+.login-page .group-container-1 {
+  border-radius: 14px;
+  height: 457px;
+  position: relative;
+  width: 490px;
+}
+
+.login-page .group-372 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  height: 457px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 490px;
+}
+
+.login-page .group-337 {
+  height: 238px;
+  margin-left: 5243.0px;
+  margin-top: 7704px;
+  width: 464px;
+}
+
+.login-page .group-373 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  left: 13px;
+  min-height: 171px;
+  position: absolute;
+  top: 267px;
+  width: 472px;
+}
+
+.login-page .overlap-group-1 {
+  height: 53px;
+  position: relative;
+  width: 275px;
+}
+
+.login-page .name {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.login-page .flex-row {
+  gap: 194px;
+  min-width: 464px;
+}
+
+.login-page .overlap-group-2 {
+  align-items: center;
+  background-color: var(--hint-of-red);
+  display: flex;
+  height: 38px;
+  min-width: 38px;
+  padding: 0 8px;
+}
+
+.login-page .group-357 {
+  align-self: flex-end;
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 4757px;
+  height: 457px;
+  width: 490px;
+}
+
+.login-page .group-354 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-left: 14px;
+  margin-top: 267px;
+  min-height: 171px;
+  width: 472px;
+}
+
+.login-page .group-33 {
+  height: 238px;
+  margin-top: 7704px;
+  width: 464px;
+}
+
+.login-page .group-358 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 4758px;
+  height: 457px;
+  margin-left: 30px;
+  width: 490px;
+}
+
+.login-page .rectangle-95 {
+  height: 585px;
+  margin-right: -5196px;
+  margin-top: 2902px;
+  width: 1852px;
+}
+
+.login-page .flex {
+  align-items: center;
+  display: flex;
+}
+
+.login-page .flex-col-8 {
+  display: flex;
+  flex-direction: column;
+}
+
+.login-page .navbar-link {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.31px;
+  min-height: 22px;
+}
+
+.login-page .x1-9d8512e0-removebg-preview {
+  height: 83px;
+  object-fit: cover;
+  width: 180px;
+}

@@ -1,0 +1,197 @@
+:root { 
+    --black: #000000;
+    --bright-gray: #2c3e50;
+    --gallery: #eceef0;
+    --onyx: #313638;
+    --onyx-2: #313638cc;
+    --royal-purple: #6f3d9e;
+    --white: #ffffff;
+    --white-2: #ffffffcc;
+    --white-3: #ffffff80;
+   
+    --font-size-l: 20px;
+    --font-size-m: 18px;
+    --font-size-s: 16px;
+    --font-size-xl: 24px;
+    --font-size-xxl: 32px;
+    --font-size-xxxl: 36px;
+    --font-size-xxxxl: 56px;
+   
+    --font-family-montserrat: "Montserrat", Helvetica;
+    --font-family-open_sans: "Open Sans", Helvetica;
+  }
+  .montserrat-bold-white-18px {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .opensans-normal-black-18px {
+    color: var(--black);
+    font-family: var(--font-family-open_sans);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .opensans-normal-white-16px {
+    color: var(--white);
+    font-family: var(--font-family-open_sans);
+    font-size: var(--font-size-s);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .opensans-bold-onyx-18px {
+    color: var(--onyx);
+    font-family: var(--font-family-open_sans);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .montserrat-bold-onyx-20px {
+    color: var(--onyx);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .montserrat-bold-white-32px {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xxl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .montserrat-bold-white-24px {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .montserrat-bold-onyx-18px {
+    color: var(--onyx);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .opensans-normal-white-18px {
+    color: var(--white);
+    font-family: var(--font-family-open_sans);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .opensans-bold-onyx-20px {
+    color: var(--onyx);
+    font-family: var(--font-family-open_sans);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .opensans-normal-onyx-18px {
+    color: var(--onyx);
+    font-family: var(--font-family-open_sans);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .opensans-normal-black-16px {
+    color: var(--black);
+    font-family: var(--font-family-open_sans);
+    font-size: var(--font-size-s);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .montserrat-bold-white-20px {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .montserrat-bold-white-32px-2 {
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xxl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .montserrat-bold-royal-purple-32px {
+    color: var(--royal-purple);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xxl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .montserrat-bold-onyx-32px {
+    color: var(--onyx);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xxl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .montserrat-bold-onyx-24px {
+    color: var(--onyx-2);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .montserrat-bold-white-24px-2 {
+    color: var(--white-2);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .montserrat-bold-onyx-24px-2 {
+    color: var(--onyx);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .montserrat-bold-black-24px {
+    color: var(--black);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .opensans-normal-onyx-16px {
+    color: var(--onyx);
+    font-family: var(--font-family-open_sans);
+    font-size: var(--font-size-s);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .opensans-bold-white-18px {
+    color: var(--white);
+    font-family: var(--font-family-open_sans);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 700;
+  }
+  

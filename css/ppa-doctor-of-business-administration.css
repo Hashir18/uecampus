@@ -1,0 +1,1313 @@
+/* screen - ppa-doctor-of-business-administration */
+
+.ppa-doctor-of-business-administration {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 5145px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.ppa-doctor-of-business-administration .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 1061px;
+  width: 1920px;
+}
+
+.ppa-doctor-of-business-administration .overlap-group7 {
+  align-items: center;
+  background-color: var(--royal-purple);
+  display: flex;
+  height: 45px;
+  min-width: 1920px;
+  padding: 0 62px;
+}
+
+.ppa-doctor-of-business-administration .have-any-questions {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  min-height: 22px;
+  min-width: 195px;
+}
+
+.ppa-doctor-of-business-administration .email {
+  height: 25px;
+  margin-left: 34px;
+  width: 25px;
+}
+
+.ppa-doctor-of-business-administration .infouecampuscom {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 10px;
+  min-height: 22px;
+  min-width: 157px;
+}
+
+.ppa-doctor-of-business-administration .phone {
+  height: 25px;
+  margin-left: 21px;
+  width: 25px;
+}
+
+.ppa-doctor-of-business-administration .phone-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 11px;
+  min-height: 22px;
+  min-width: 128px;
+}
+
+.ppa-doctor-of-business-administration .navbar {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  margin-top: 5px;
+  min-width: 1796px;
+}
+
+.ppa-doctor-of-business-administration .navbar-link-programs {
+  min-width: 92px;
+}
+
+.ppa-doctor-of-business-administration .sort-left {
+  height: 15px;
+  margin-left: 6px;
+  margin-top: 1.69px;
+  width: 15px;
+}
+
+.ppa-doctor-of-business-administration .navbar-link-diplomas {
+  margin-left: 33px;
+  min-width: 90px;
+}
+
+.ppa-doctor-of-business-administration .navbar-link-about-us {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.31px;
+  margin-left: 38px;
+  min-height: 22px;
+  min-width: 88px;
+}
+
+.ppa-doctor-of-business-administration .navbar-link-scholarships {
+  margin-left: 38px;
+  min-width: 121px;
+}
+
+.ppa-doctor-of-business-administration .x1-9d8512e0-removebg-preview-1 {
+  margin-left: 245px;
+}
+
+.ppa-doctor-of-business-administration .navbar-link-login {
+  margin-left: 561px;
+  min-width: 54px;
+}
+
+.ppa-doctor-of-business-administration .overlap-group12 {
+  align-items: flex-start;
+  background-color: var(--bright-gray);
+  border-radius: 10px;
+  display: flex;
+  height: 49px;
+  margin-left: 33px;
+  margin-top: 1.69px;
+  min-width: 160px;
+  padding: 12px 40px;
+}
+
+.ppa-doctor-of-business-administration .place {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.ppa-doctor-of-business-administration .rectangle-6 {
+  background-color: var(--royal-purple);
+  height: 3px;
+  margin-top: 4px;
+  width: 1920px;
+}
+
+.ppa-doctor-of-business-administration .overlap-group8 {
+  align-items: flex-start;
+  background-image: url(../img/group-453-7.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 329px;
+  justify-content: flex-end;
+  min-width: 1920px;
+  padding: 90px 475px;
+}
+
+.ppa-doctor-of-business-administration .doctor-of-business-administration {
+  height: 114px;
+  letter-spacing: 1.40px;
+  line-height: 80px;
+  text-align: center;
+  width: 896px;
+}
+
+.ppa-doctor-of-business-administration .price {
+  letter-spacing: 0.70px;
+  line-height: 80px;
+  margin-bottom: -44px;
+  margin-left: 235px;
+  margin-top: 72px;
+  min-height: 36px;
+  white-space: nowrap;
+}
+
+.ppa-doctor-of-business-administration .title {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 117px;
+  margin-top: 49px;
+  min-height: 77px;
+  white-space: nowrap;
+}
+
+.ppa-doctor-of-business-administration .overlap-group10 {
+  align-self: center;
+  height: 336px;
+  margin-right: 3.0px;
+  margin-top: 22px;
+  position: relative;
+  width: 1667px;
+}
+
+.ppa-doctor-of-business-administration .embark-on-a-transfor {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 43px;
+  position: absolute;
+  top: 0;
+  width: 1651px;
+}
+
+.ppa-doctor-of-business-administration .programme-overview {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 259px;
+  white-space: nowrap;
+  width: 709px;
+}
+
+.ppa-doctor-of-business-administration .flex-row-1 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 6px;
+  height: 290px;
+  margin-right: 77.0px;
+  margin-top: 73px;
+  min-width: 1593px;
+}
+
+.ppa-doctor-of-business-administration .image-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 19.0px;
+  min-height: 239px;
+  width: 32px;
+}
+
+.ppa-doctor-of-business-administration .image-33 {
+  height: 24px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.ppa-doctor-of-business-administration .image-43 {
+  height: 24px;
+  margin-top: 94px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.ppa-doctor-of-business-administration .image-35 {
+  height: 24px;
+  margin-top: 73px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.ppa-doctor-of-business-administration .cutting-edge-curricu {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 290px;
+  width: 1555px;
+}
+
+.ppa-doctor-of-business-administration .flex-col-1 {
+  align-items: flex-start;
+  gap: 153px;
+  margin-top: 93px;
+  min-height: 3670px;
+  width: 3522px;
+}
+
+.ppa-doctor-of-business-administration .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 68px;
+  height: 1724px;
+  margin-left: 125px;
+  min-width: 1774px;
+}
+
+.ppa-doctor-of-business-administration .flex-col-2 {
+  align-items: flex-start;
+  min-height: 1506px;
+  width: 954px;
+}
+
+.ppa-doctor-of-business-administration .why-choose-ue-campus-dba-programme {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 164px;
+  width: 829px;
+}
+
+.ppa-doctor-of-business-administration .career-advancement {
+  letter-spacing: 0;
+  line-height: 43px;
+  margin-top: 48px;
+  min-height: 516px;
+  width: 881px;
+}
+
+.ppa-doctor-of-business-administration .admission-requirements {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 97px;
+  min-height: 82px;
+  white-space: nowrap;
+}
+
+.ppa-doctor-of-business-administration .a-masters-degree-fr {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 43px;
+  margin-top: 43px;
+  min-height: 129px;
+  width: 919px;
+}
+
+.ppa-doctor-of-business-administration .qualification-earned-upon-graduation {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 3px;
+  margin-top: 100px;
+  min-height: 82px;
+  white-space: nowrap;
+}
+
+.ppa-doctor-of-business-administration .stage-one-one-of-t {
+  color: var(--black-2);
+  font-family: var(--font-family-roboto);
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 18px;
+  margin-top: 111px;
+  min-height: 33px;
+  white-space: nowrap;
+}
+
+.ppa-doctor-of-business-administration .doctor-of-business-a {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 43px;
+  min-height: 58px;
+  width: 919px;
+}
+
+.ppa-doctor-of-business-administration .overlap-group-container {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 117px;
+  min-height: 1723px;
+  width: 752px;
+}
+
+.ppa-doctor-of-business-administration .overlap-group5 {
+  height: 1055px;
+  margin-left: 16.0px;
+  position: relative;
+  width: 602px;
+}
+
+.ppa-doctor-of-business-administration .overlap-group3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 1055px;
+  padding: 20.6px 15.9px;
+  position: absolute;
+  top: 0;
+  width: 600px;
+}
+
+.ppa-doctor-of-business-administration .group-345 {
+  height: 24px;
+  margin-right: 44.51px;
+  margin-top: 32px;
+  width: 64px;
+}
+
+.ppa-doctor-of-business-administration .overlap-group-1 {
+  align-items: flex-end;
+  background-color: var(--bright-gray);
+  border-radius: 15px;
+  display: flex;
+  height: 81px;
+  justify-content: flex-end;
+  margin-right: 16.09px;
+  margin-top: 29px;
+  min-width: 543px;
+  padding: 16px 114px;
+}
+
+.ppa-doctor-of-business-administration .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--bright-gray);
+  border-radius: 15px;
+  display: flex;
+  height: 81px;
+  justify-content: flex-end;
+  margin-right: 16.09px;
+  margin-top: 22px;
+  min-width: 543px;
+  padding: 18px 141px;
+}
+
+.ppa-doctor-of-business-administration .group-344 {
+  align-self: center;
+  display: flex;
+  height: 43px;
+  margin-right: 4.39px;
+  margin-top: 21px;
+  width: 458px;
+}
+
+.ppa-doctor-of-business-administration .group-343 {
+  display: flex;
+  gap: 7.3px;
+  height: 37.88px;
+  margin-top: 5.4px;
+  width: 143.93px;
+}
+
+.ppa-doctor-of-business-administration .time-svgrepo-com-1 {
+  height: 27.94px;
+  width: 23.25px;
+}
+
+.ppa-doctor-of-business-administration .x22hr-30min {
+  height: 35.29px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 2.6px;
+  width: 111.34px;
+}
+
+.ppa-doctor-of-business-administration .group-342 {
+  display: flex;
+  gap: 8.6px;
+  height: 43.23px;
+  margin-left: 15.1px;
+  width: 156.17px;
+}
+
+.ppa-doctor-of-business-administration .video-svgrepo-com-1 {
+  height: 41.17px;
+  width: 34.26px;
+}
+
+.ppa-doctor-of-business-administration .address {
+  height: 35.29px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 7.9px;
+  width: 111.34px;
+}
+
+.ppa-doctor-of-business-administration .group-341 {
+  display: flex;
+  gap: 9px;
+  height: 35.88px;
+  margin-left: 17.1px;
+  margin-top: 7.4px;
+  width: 127.25px;
+}
+
+.ppa-doctor-of-business-administration .download-svgrepo-com-1 {
+  height: 26.47px;
+  width: 22.02px;
+}
+
+.ppa-doctor-of-business-administration .address-1 {
+  height: 35.29px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 0.6px;
+  width: 94.21px;
+}
+
+.ppa-doctor-of-business-administration .line-1 {
+  height: 2px;
+  margin-right: 18.09px;
+  margin-top: 85px;
+  object-fit: cover;
+  width: 517px;
+}
+
+.ppa-doctor-of-business-administration .image-42 {
+  height: 100px;
+  left: 230px;
+  object-fit: cover;
+  position: absolute;
+  top: 209px;
+  width: 100px;
+}
+
+.ppa-doctor-of-business-administration .price-1 {
+  left: 205px;
+  letter-spacing: 0.70px;
+  line-height: 80px;
+  position: absolute;
+  top: 373px;
+  white-space: nowrap;
+  width: 113px;
+}
+
+.ppa-doctor-of-business-administration .price-2 {
+  left: 29px;
+  letter-spacing: 0.64px;
+  line-height: 80px;
+  position: absolute;
+  top: 374px;
+  width: 141px;
+}
+
+.ppa-doctor-of-business-administration .line-13 {
+  height: 3px;
+  left: 49px;
+  position: absolute;
+  top: 411px;
+  width: 125px;
+}
+
+.ppa-doctor-of-business-administration .update-april-2-2024 {
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 65px;
+  position: absolute;
+  top: 721px;
+  width: 528px;
+}
+
+.ppa-doctor-of-business-administration .line-14 {
+  height: 2px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 903px;
+  width: 517px;
+}
+
+.ppa-doctor-of-business-administration .line-15 {
+  height: 2px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 979px;
+  width: 517px;
+}
+
+.ppa-doctor-of-business-administration .line-16 {
+  height: 2px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 1036px;
+  width: 517px;
+}
+
+.ppa-doctor-of-business-administration .overlap-group9 {
+  height: 551px;
+  position: relative;
+  width: 752px;
+}
+
+.ppa-doctor-of-business-administration .rectangle-3873 {
+  height: 551px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 684px;
+}
+
+.ppa-doctor-of-business-administration .fee-payment-plans {
+  left: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 52px;
+  white-space: nowrap;
+  width: 716px;
+}
+
+.ppa-doctor-of-business-administration .investment-in-your-f {
+  left: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 175px;
+  width: 593px;
+}
+
+.ppa-doctor-of-business-administration .flex-row-3 {
+  align-items: flex-end;
+  display: flex;
+  height: 1793px;
+  min-width: 3522px;
+}
+
+.ppa-doctor-of-business-administration .flex-col-3 {
+  align-items: center;
+  min-height: 1793px;
+  width: 1920px;
+}
+
+.ppa-doctor-of-business-administration .choose-pricing-plan {
+  letter-spacing: 1.28px;
+  line-height: 107.2px;
+  margin-left: 2.0px;
+  min-height: 60px;
+  white-space: nowrap;
+  width: 620px;
+}
+
+.ppa-doctor-of-business-administration .span {
+  letter-spacing: 0.82px;
+}
+
+.ppa-doctor-of-business-administration .overlap-group11 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-55.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 79px;
+  margin-right: 26.0px;
+  margin-top: 48px;
+  min-width: 1122px;
+  padding: 21px 54px;
+}
+
+.ppa-doctor-of-business-administration .overlap-group6 {
+  height: 1543px;
+  margin-top: 63px;
+  position: relative;
+  width: 1920px;
+}
+
+.ppa-doctor-of-business-administration .rectangle-51 {
+  background-color: var(--white);
+  height: 847px;
+  left: 0;
+  position: absolute;
+  top: 267px;
+  width: 1920px;
+}
+
+.ppa-doctor-of-business-administration .price-3 {
+  left: 829px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  top: 194px;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.ppa-doctor-of-business-administration .pricing-table {
+  align-items: flex-start;
+  display: flex;
+  gap: 3px;
+  height: 782px;
+  left: 396px;
+  min-width: 1109px;
+  position: absolute;
+  top: 0;
+}
+
+.ppa-doctor-of-business-administration .price-list-1 {
+  margin-left: -14px;
+  margin-top: -10px;
+}
+
+.ppa-doctor-of-business-administration .overlap-group4 {
+  height: 820px;
+  margin-top: -20.0px;
+  position: relative;
+  width: 748px;
+}
+
+.ppa-doctor-of-business-administration .group-289556 {
+  height: 64px;
+  left: 35px;
+  position: absolute;
+  top: 334px;
+  width: 291px;
+}
+
+.ppa-doctor-of-business-administration .price-list-3 {
+  left: 362px;
+  position: absolute;
+  top: 10px;
+}
+
+.ppa-doctor-of-business-administration .rectangle-4469 {
+  background-color: var(--bright-gray);
+  border-radius: 15px;
+  box-shadow: 0px 44px 64px #4876ea4c;
+  height: 782px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 358px;
+}
+
+.ppa-doctor-of-business-administration .check-circle-1 {
+  height: 21px;
+  left: 36px;
+  position: absolute;
+  top: 460px;
+  width: 21px;
+}
+
+.ppa-doctor-of-business-administration .all-limited-links {
+  left: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 460px;
+  width: 220px;
+}
+
+.ppa-doctor-of-business-administration .check-circle-1-1 {
+  top: 510px;
+}
+
+.ppa-doctor-of-business-administration .own-analytics-platfo {
+  left: 69px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 509px;
+  width: 225px;
+}
+
+.ppa-doctor-of-business-administration .check-circle-1-2 {
+  top: 560px;
+}
+
+.ppa-doctor-of-business-administration .chat-support {
+  left: 69px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 560px;
+  width: 212px;
+}
+
+.ppa-doctor-of-business-administration .check-circle-1-3 {
+  top: 609px;
+}
+
+.ppa-doctor-of-business-administration .optimize-hashtags {
+  left: 69px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 607px;
+  width: 194px;
+}
+
+.ppa-doctor-of-business-administration .intro {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 69px;
+  width: 273px;
+}
+
+.ppa-doctor-of-business-administration .x20 {
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  top: 201px;
+  white-space: nowrap;
+  width: 164px;
+}
+
+.ppa-doctor-of-business-administration .for-most-businesses {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 151px;
+  width: 94px;
+}
+
+.ppa-doctor-of-business-administration .frame {
+  align-items: center;
+  background-color: var(--gigas);
+  border-radius: 15px;
+  display: flex;
+  height: 64px;
+  left: 807px;
+  overflow: hidden;
+  position: absolute;
+  top: 331px;
+  width: 291px;
+}
+
+.ppa-doctor-of-business-administration .choose-plan {
+  flex: 1;
+  height: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 23.94%;
+  margin-right: 23.8%;
+  margin-top: 0.4px;
+  text-align: center;
+  width: 152px;
+}
+
+.ppa-doctor-of-business-administration .rectangle-60 {
+  height: 45px;
+  left: 431px;
+  position: absolute;
+  top: 249px;
+  width: 223px;
+}
+
+.ppa-doctor-of-business-administration .total-fee-6600 {
+  left: 462px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 259px;
+  width: 243px;
+}
+
+.ppa-doctor-of-business-administration .rectangle-61 {
+  height: 45px;
+  left: 800px;
+  position: absolute;
+  top: 249px;
+  width: 223px;
+}
+
+.ppa-doctor-of-business-administration .total-fee-6600-1 {
+  left: 836px;
+  width: 243px;
+}
+
+.ppa-doctor-of-business-administration .total-fee-6600-2 {
+  left: 1217px;
+  width: 155px;
+}
+
+.ppa-doctor-of-business-administration .rectangle-62 {
+  height: 45px;
+  left: 1179px;
+  position: absolute;
+  top: 248px;
+  width: 223px;
+}
+
+.ppa-doctor-of-business-administration .frame-1 {
+  align-items: center;
+  background-color: var(--bright-gray);
+  border-radius: 15px;
+  display: flex;
+  height: 64px;
+  left: 1182px;
+  overflow: hidden;
+  position: absolute;
+  top: 331px;
+  width: 291px;
+}
+
+.ppa-doctor-of-business-administration .month {
+  left: 1000px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 193px;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.ppa-doctor-of-business-administration .month-1 {
+  left: 1376px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 197px;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.ppa-doctor-of-business-administration .price-4 {
+  left: 818px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  top: 186px;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.ppa-doctor-of-business-administration .price-5 {
+  left: 1196px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  top: 186px;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.ppa-doctor-of-business-administration .rectangle-86 {
+  background-color: var(--gallery);
+  height: 490px;
+  left: 0;
+  position: absolute;
+  top: 1053px;
+  width: 1920px;
+}
+
+.ppa-doctor-of-business-administration .x1-9d8512e0-removebg-preview-2 {
+  left: 62px;
+  position: absolute;
+  top: 1092px;
+}
+
+.ppa-doctor-of-business-administration .at-ue-campus-we-unde {
+  left: 62px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1190px;
+  width: 497px;
+}
+
+.ppa-doctor-of-business-administration .courses {
+  left: 633px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1091px;
+  width: 76px;
+}
+
+.ppa-doctor-of-business-administration .facebook {
+  height: 50px;
+  left: 336px;
+  position: absolute;
+  top: 1302px;
+  width: 50px;
+}
+
+.ppa-doctor-of-business-administration .ellipse-9 {
+  left: 62px;
+}
+
+.ppa-doctor-of-business-administration .ellipse-10 {
+  left: 172px;
+}
+
+.ppa-doctor-of-business-administration .ellipse-11 {
+  left: 227px;
+}
+
+.ppa-doctor-of-business-administration .instagram-circle {
+  height: 50px;
+  left: 279px;
+  position: absolute;
+  top: 1302px;
+  width: 50px;
+}
+
+.ppa-doctor-of-business-administration .twitter-x {
+  height: 25px;
+  left: 234px;
+  position: absolute;
+  top: 1314px;
+  width: 25px;
+}
+
+.ppa-doctor-of-business-administration .linked-in-circled {
+  height: 50px;
+  left: 112px;
+  position: absolute;
+  top: 1302px;
+  width: 50px;
+}
+
+.ppa-doctor-of-business-administration .you-tube {
+  height: 25px;
+  left: 69px;
+  position: absolute;
+  top: 1314px;
+  width: 25px;
+}
+
+.ppa-doctor-of-business-administration .tik-tok {
+  height: 25px;
+  left: 179px;
+  position: absolute;
+  top: 1314px;
+  width: 25px;
+}
+
+.ppa-doctor-of-business-administration .rectangle-87 {
+  background-color: var(--alto);
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 1447px;
+  width: 1920px;
+}
+
+.ppa-doctor-of-business-administration .copyright-2024-ue-c {
+  left: 666px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1466px;
+}
+
+.ppa-doctor-of-business-administration .bachelors-masters-dba {
+  left: 633px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1135px;
+}
+
+.ppa-doctor-of-business-administration .apply {
+  left: 633px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1236px;
+  width: 76px;
+}
+
+.ppa-doctor-of-business-administration .fees-apply-now {
+  left: 633px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1280px;
+}
+
+.ppa-doctor-of-business-administration .programs {
+  left: 804px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1093px;
+  width: 92px;
+}
+
+.ppa-doctor-of-business-administration .ppa-walsh-college-diploma {
+  left: 804px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1137px;
+}
+
+.ppa-doctor-of-business-administration .online-study {
+  left: 804px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1238px;
+  width: 122px;
+}
+
+.ppa-doctor-of-business-administration .online-degrees-online-lms {
+  left: 804px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1282px;
+}
+
+.ppa-doctor-of-business-administration .about-us {
+  left: 1021px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1093px;
+  width: 148px;
+}
+
+.ppa-doctor-of-business-administration .about-us-faq-accredi {
+  left: 1021px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1135px;
+}
+
+.ppa-doctor-of-business-administration .contact-us {
+  left: 1220px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1093px;
+  width: 148px;
+}
+
+.ppa-doctor-of-business-administration .infouecampuscom-1 {
+  left: 1255px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1138px;
+}
+
+.ppa-doctor-of-business-administration .phone-2 {
+  left: 1255px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1174px;
+}
+
+.ppa-doctor-of-business-administration .envelope {
+  height: 25px;
+  left: 1220px;
+  position: absolute;
+  top: 1137px;
+  width: 25px;
+}
+
+.ppa-doctor-of-business-administration .newsletter {
+  left: 1542px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1093px;
+  width: 148px;
+}
+
+.ppa-doctor-of-business-administration .phone-3 {
+  height: 25px;
+  left: 1220px;
+  position: absolute;
+  top: 1173px;
+  width: 25px;
+}
+
+.ppa-doctor-of-business-administration .image-31 {
+  height: 140px;
+  left: 1220px;
+  object-fit: cover;
+  position: absolute;
+  top: 1212px;
+  width: 272px;
+}
+
+.ppa-doctor-of-business-administration .rectangle-88 {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 39px;
+  left: 1542px;
+  position: absolute;
+  top: 1136px;
+  width: 316px;
+}
+
+.ppa-doctor-of-business-administration .rectangle-89 {
+  background-color: var(--royal-purple);
+  border-radius: 5px;
+  height: 39px;
+  left: 1763px;
+  position: absolute;
+  top: 1136px;
+  width: 95px;
+}
+
+.ppa-doctor-of-business-administration .rectangle-94 {
+  background-color: var(--royal-purple);
+  height: 39px;
+  left: 1763px;
+  position: absolute;
+  top: 1136px;
+  width: 9px;
+}
+
+.ppa-doctor-of-business-administration .sign-up {
+  left: 1781px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1144px;
+  width: 60px;
+}
+
+.ppa-doctor-of-business-administration .insert-email {
+  left: 1556px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1144px;
+  width: 126px;
+}
+
+.ppa-doctor-of-business-administration .group-357 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 5493px;
+  height: 457px;
+  margin-bottom: 262px;
+  margin-left: 592px;
+  width: 490px;
+}
+
+.ppa-doctor-of-business-administration .group-33 {
+  height: 238px;
+  margin-left: -5943px;
+  margin-top: -2825px;
+  width: 464px;
+}
+
+.ppa-doctor-of-business-administration .group-354 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 267px;
+  min-height: 171px;
+  width: 472px;
+}
+
+.ppa-doctor-of-business-administration .overlap-group2 {
+  height: 53px;
+  position: relative;
+  width: 275px;
+}
+
+.ppa-doctor-of-business-administration .name {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.ppa-doctor-of-business-administration .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 194px;
+  min-width: 464px;
+}
+
+.ppa-doctor-of-business-administration .overlap-group {
+  align-items: center;
+  background-color: var(--hint-of-red);
+  display: flex;
+  height: 38px;
+  min-width: 38px;
+  padding: 0 8px;
+}
+
+.ppa-doctor-of-business-administration .group-358 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 5492px;
+  height: 457px;
+  margin-bottom: 262px;
+  margin-left: 30px;
+  width: 490px;
+}
+
+.ppa-doctor-of-business-administration .check-circle-1-4 {
+  height: 21px;
+  left: 36px;
+  position: absolute;
+  width: 21px;
+}
+
+.ppa-doctor-of-business-administration .ellipse {
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  height: 40px;
+  position: absolute;
+  top: 1307px;
+  width: 40px;
+}
+
+.ppa-doctor-of-business-administration .flex-col-4 {
+  display: flex;
+  flex-direction: column;
+}
+
+.ppa-doctor-of-business-administration .navbar-link {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.31px;
+  min-height: 22px;
+}
+
+.ppa-doctor-of-business-administration .price-list {
+  height: 810px;
+  width: 386px;
+}
+
+.ppa-doctor-of-business-administration .total-fee-6600-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 259px;
+}
+
+.ppa-doctor-of-business-administration .x1-9d8512e0-removebg-preview {
+  height: 83px;
+  object-fit: cover;
+  width: 180px;
+}

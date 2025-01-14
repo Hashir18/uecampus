@@ -1,0 +1,871 @@
+/* screen - academic-partnership */
+
+.academic-partnership {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 514px;
+  height: 4281px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.academic-partnership .rectangle-95 {
+  height: 585px;
+  margin-right: -866px;
+  margin-top: -1099px;
+  width: 1852px;
+}
+
+.academic-partnership .flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 4925px;
+  margin-right: -1602px;
+  min-width: 3629px;
+}
+
+.academic-partnership .overlap-group-container {
+  align-self: flex-start;
+  flex-direction: column;
+  min-height: 4758px;
+  width: 2087px;
+}
+
+.academic-partnership .overlap-group8 {
+  align-items: center;
+  background-color: var(--royal-purple);
+  display: flex;
+  height: 45px;
+  margin-left: 47.0px;
+  min-width: 1920px;
+  padding: 0 62px;
+}
+
+.academic-partnership .have-any-questions {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  min-height: 22px;
+  min-width: 195px;
+}
+
+.academic-partnership .email {
+  height: 25px;
+  margin-left: 34px;
+  width: 25px;
+}
+
+.academic-partnership .infouecampuscom {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 10px;
+  min-height: 22px;
+  min-width: 157px;
+}
+
+.academic-partnership .phone {
+  height: 25px;
+  margin-left: 21px;
+  width: 25px;
+}
+
+.academic-partnership .phone-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 11px;
+  min-height: 22px;
+  min-width: 128px;
+}
+
+.academic-partnership .overlap-group12 {
+  height: 411px;
+  margin-left: 47.0px;
+  margin-top: 5px;
+  position: relative;
+  width: 1920px;
+}
+
+.academic-partnership .overlap-group6 {
+  height: 411px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.academic-partnership .x1-9d8512e0-removebg-preview-1 {
+  left: 870px;
+  top: 0;
+}
+
+.academic-partnership .rectangle-6 {
+  background-color: var(--royal-purple);
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 87px;
+  width: 1920px;
+}
+
+.academic-partnership .group-453 {
+  height: 329px;
+  left: 0;
+  position: absolute;
+  top: 82px;
+  width: 1920px;
+}
+
+.academic-partnership .academic-partnership-1 {
+  height: 114px;
+  left: 549px;
+  letter-spacing: 1.28px;
+  line-height: 107.2px;
+  position: absolute;
+  text-align: center;
+  top: 172px;
+  white-space: nowrap;
+  width: 896px;
+}
+
+.academic-partnership .collaborating-with-t {
+  color: var(--white);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  left: 432px;
+  text-align: center;
+  top: 290px;
+  width: 1077px;
+}
+
+.academic-partnership .programs {
+  left: 62px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.academic-partnership .diplomas {
+  left: 208px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.academic-partnership .scholarships {
+  left: 504px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.academic-partnership .about-us {
+  left: 357px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.academic-partnership .login {
+  left: 1611px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.academic-partnership .overlap-group10 {
+  align-items: flex-start;
+  background-color: var(--bright-gray);
+  border-radius: 10px;
+  display: flex;
+  height: 49px;
+  left: 1698px;
+  min-width: 160px;
+  padding: 12px 40px;
+  position: absolute;
+  top: 18px;
+}
+
+.academic-partnership .place {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.academic-partnership .sort-left {
+  height: 15px;
+  left: 160px;
+  position: absolute;
+  top: 35px;
+  width: 15px;
+}
+
+.academic-partnership .sort-left-1 {
+  left: 451px;
+}
+
+.academic-partnership .sort-left-2 {
+  left: 304px;
+}
+
+.academic-partnership .overlap-group9 {
+  align-items: center;
+  background-color: var(--alto-2);
+  border-radius: 50px;
+  display: flex;
+  gap: 79px;
+  height: 669px;
+  margin-top: 123px;
+  min-width: 1843px;
+  padding: 82px 66px;
+}
+
+.academic-partnership .image {
+  align-self: flex-end;
+  height: 487px;
+  object-fit: cover;
+  width: 990px;
+}
+
+.academic-partnership .flex-col {
+  flex-direction: column;
+  margin-bottom: 5.0px;
+  min-height: 466px;
+  width: 639px;
+}
+
+.academic-partnership .x-with {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 104px;
+  width: 639px;
+}
+
+.academic-partnership .span {
+  color: var(--gigas);
+  font-family: var(--font-family-montserrat);
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.academic-partnership .span1-1 {
+  color: var(--bright-gray);
+  font-family: var(--font-family-montserrat);
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.academic-partnership .known-for-its-focus {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 39px;
+  min-height: 255px;
+  width: 639px;
+}
+
+.academic-partnership .line {
+  height: 2px;
+  margin-left: 1.0px;
+  margin-top: 66px;
+  width: 330px;
+}
+
+.academic-partnership .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--alto-2);
+  border-radius: 50px;
+  display: flex;
+  gap: 93px;
+  height: 669px;
+  margin-right: 34.0px;
+  margin-top: 136px;
+  min-width: 1843px;
+  padding: 99px 66px;
+}
+
+.academic-partnership .image-1 {
+  height: 465px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 976px;
+}
+
+.academic-partnership .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 466px;
+  width: 639px;
+}
+
+.academic-partnership .span1 {
+  color: var(--bright-gray);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 700;
+}
+
+.academic-partnership .as-an-esteemed-uk-aw {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 39px;
+  min-height: 255px;
+  width: 639px;
+}
+
+.academic-partnership .overlap-group7 {
+  height: 1300px;
+  margin-top: 161px;
+  position: relative;
+  width: 2087px;
+}
+
+.academic-partnership .rectangle-52 {
+  background-color: var(--white);
+  height: 633px;
+  left: 0;
+  position: absolute;
+  top: 565px;
+  width: 1920px;
+}
+
+.academic-partnership .title {
+  color: transparent;
+  font-family: var(--font-family-roboto);
+  font-size: 69px;
+  font-weight: 800;
+  left: 553px;
+  letter-spacing: 0;
+  line-height: 93.2px;
+  position: absolute;
+  top: 924px;
+  width: 1221px;
+}
+
+.academic-partnership .span-2 {
+  color: #040c26;
+}
+
+.academic-partnership .span1-2 {
+  color: var(--gigas);
+}
+
+.academic-partnership .rectangle-53 {
+  height: 240px;
+  left: 153px;
+  object-fit: cover;
+  position: absolute;
+  top: 1060px;
+  width: 1934px;
+}
+
+.academic-partnership .rectangle-97 {
+  background-color: var(--alto-2);
+  border-radius: 50px;
+  height: 669px;
+  left: 122px;
+  position: absolute;
+  top: 0;
+  width: 1843px;
+}
+
+.academic-partnership .image-2 {
+  height: 465px;
+  left: 188px;
+  object-fit: cover;
+  position: absolute;
+  top: 100px;
+  width: 976px;
+}
+
+.academic-partnership .collaborating-with-p {
+  left: 1257px;
+  top: 99px;
+  width: 639px;
+}
+
+.academic-partnership .located-in-paris-fr {
+  left: 1257px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 242px;
+  width: 639px;
+}
+
+.academic-partnership .line-8 {
+  height: 2px;
+  left: 1412px;
+  position: absolute;
+  top: 563px;
+  width: 330px;
+}
+
+.academic-partnership .overlap-group5 {
+  height: 967px;
+  margin-left: 50.0px;
+  margin-top: 272px;
+  position: relative;
+  width: 1923px;
+}
+
+.academic-partnership .rectangle-51 {
+  background-color: var(--white);
+  height: 847px;
+  left: 0;
+  position: absolute;
+  top: 120px;
+  width: 1920px;
+}
+
+.academic-partnership .rectangle-86 {
+  background-color: var(--gallery);
+  height: 490px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.academic-partnership .x1-9d8512e0-removebg-preview-2 {
+  left: 65px;
+  top: 74px;
+}
+
+.academic-partnership .at-ue-campus-we-unde {
+  left: 65px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 172px;
+  width: 497px;
+}
+
+.academic-partnership .courses {
+  left: 636px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 73px;
+  width: 76px;
+}
+
+.academic-partnership .facebook {
+  height: 50px;
+  left: 339px;
+  position: absolute;
+  top: 284px;
+  width: 50px;
+}
+
+.academic-partnership .ellipse-9 {
+  left: 65px;
+}
+
+.academic-partnership .ellipse-10 {
+  left: 175px;
+}
+
+.academic-partnership .ellipse-11 {
+  left: 230px;
+}
+
+.academic-partnership .instagram-circle {
+  height: 50px;
+  left: 282px;
+  position: absolute;
+  top: 284px;
+  width: 50px;
+}
+
+.academic-partnership .twitter-x {
+  height: 25px;
+  left: 237px;
+  position: absolute;
+  top: 296px;
+  width: 25px;
+}
+
+.academic-partnership .linked-in-circled {
+  height: 50px;
+  left: 115px;
+  position: absolute;
+  top: 284px;
+  width: 50px;
+}
+
+.academic-partnership .you-tube {
+  height: 25px;
+  left: 72px;
+  position: absolute;
+  top: 296px;
+  width: 25px;
+}
+
+.academic-partnership .tik-tok {
+  height: 25px;
+  left: 182px;
+  position: absolute;
+  top: 296px;
+  width: 25px;
+}
+
+.academic-partnership .rectangle-87 {
+  background-color: var(--alto);
+  height: 61px;
+  left: 3px;
+  position: absolute;
+  top: 429px;
+  width: 1920px;
+}
+
+.academic-partnership .copyright-2024-ue-c {
+  left: 669px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 448px;
+}
+
+.academic-partnership .bachelors-masters-dba {
+  left: 636px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 117px;
+}
+
+.academic-partnership .apply {
+  left: 636px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 218px;
+  width: 76px;
+}
+
+.academic-partnership .fees-apply-now {
+  left: 636px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 262px;
+}
+
+.academic-partnership .programs-1 {
+  left: 807px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 75px;
+  width: 92px;
+}
+
+.academic-partnership .ppa-walsh-college-diploma {
+  left: 807px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 119px;
+}
+
+.academic-partnership .online-study {
+  left: 807px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 220px;
+  width: 122px;
+}
+
+.academic-partnership .online-degrees-online-lms {
+  left: 807px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 264px;
+}
+
+.academic-partnership .about-us-1 {
+  left: 1024px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 75px;
+  width: 148px;
+}
+
+.academic-partnership .about-us-faq-accredi {
+  left: 1024px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 117px;
+}
+
+.academic-partnership .contact-us {
+  left: 1223px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 75px;
+  width: 148px;
+}
+
+.academic-partnership .infouecampuscom-1 {
+  left: 1258px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 120px;
+}
+
+.academic-partnership .phone-2 {
+  left: 1258px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 156px;
+}
+
+.academic-partnership .envelope {
+  height: 25px;
+  left: 1223px;
+  position: absolute;
+  top: 119px;
+  width: 25px;
+}
+
+.academic-partnership .newsletter {
+  left: 1545px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 75px;
+  width: 148px;
+}
+
+.academic-partnership .phone-3 {
+  height: 25px;
+  left: 1223px;
+  position: absolute;
+  top: 155px;
+  width: 25px;
+}
+
+.academic-partnership .image-31 {
+  height: 140px;
+  left: 1223px;
+  object-fit: cover;
+  position: absolute;
+  top: 194px;
+  width: 272px;
+}
+
+.academic-partnership .rectangle-88 {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 39px;
+  left: 1545px;
+  position: absolute;
+  top: 118px;
+  width: 316px;
+}
+
+.academic-partnership .rectangle-89 {
+  background-color: var(--royal-purple);
+  border-radius: 5px;
+  height: 39px;
+  left: 1766px;
+  position: absolute;
+  top: 118px;
+  width: 95px;
+}
+
+.academic-partnership .rectangle-94 {
+  background-color: var(--royal-purple);
+  height: 39px;
+  left: 1766px;
+  position: absolute;
+  top: 118px;
+  width: 9px;
+}
+
+.academic-partnership .sign-up {
+  left: 1784px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 126px;
+  width: 60px;
+}
+
+.academic-partnership .insert-email {
+  left: 1559px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 126px;
+  width: 126px;
+}
+
+.academic-partnership .group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3022px;
+  margin-left: 58px;
+  min-height: 3936px;
+  width: 964px;
+}
+
+.academic-partnership .group-container-1 {
+  border-radius: 14px;
+  height: 457px;
+  position: relative;
+  width: 490px;
+}
+
+.academic-partnership .group-372 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  height: 457px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 490px;
+}
+
+.academic-partnership .group-337 {
+  height: 238px;
+  margin-left: 913px;
+  margin-top: -1166px;
+  width: 464px;
+}
+
+.academic-partnership .group-373 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  left: 13px;
+  min-height: 171px;
+  position: absolute;
+  top: 267px;
+  width: 472px;
+}
+
+.academic-partnership .overlap-group {
+  height: 53px;
+  position: relative;
+  width: 275px;
+}
+
+.academic-partnership .name {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.academic-partnership .flex-row {
+  gap: 194px;
+  min-width: 464px;
+}
+
+.academic-partnership .overlap-group-1 {
+  background-color: var(--hint-of-red);
+  height: 38px;
+  min-width: 38px;
+  padding: 0 8px;
+}
+
+.academic-partnership .group-357 {
+  align-self: flex-end;
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 427px;
+  height: 457px;
+  width: 490px;
+}
+
+.academic-partnership .group-354 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-left: 14px;
+  margin-top: 267px;
+  min-height: 171px;
+  width: 472px;
+}
+
+.academic-partnership .group-33 {
+  height: 238px;
+  margin-top: -1166px;
+  width: 464px;
+}
+
+.academic-partnership .group-358 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 428px;
+  height: 457px;
+  margin-left: 30px;
+  width: 490px;
+}
+
+.academic-partnership .collaborating-with {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.academic-partnership .ellipse {
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  height: 40px;
+  position: absolute;
+  top: 289px;
+  width: 40px;
+}
+
+.academic-partnership .flex {
+  align-items: center;
+  display: flex;
+}
+
+.academic-partnership .overlap-group-2 {
+  align-items: center;
+  display: flex;
+}
+
+.academic-partnership .sort-left-3 {
+  height: 15px;
+  position: absolute;
+  top: 35px;
+  width: 15px;
+}
+
+.academic-partnership .x1-9d8512e0-removebg-preview {
+  height: 83px;
+  object-fit: cover;
+  position: absolute;
+  width: 180px;
+}

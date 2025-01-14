@@ -1,0 +1,725 @@
+/* screen - diploma-main-page */
+
+.diploma-main-page {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 2518px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.diploma-main-page .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: -1516px;
+  margin-top: -6915px;
+  min-height: 11673px;
+  width: 3447px;
+}
+
+.diploma-main-page .rectangle-95 {
+  align-self: flex-start;
+  height: 585px;
+  width: 1852px;
+}
+
+.diploma-main-page .overlap-group8 {
+  align-items: center;
+  background-color: var(--royal-purple);
+  display: flex;
+  height: 45px;
+  margin-right: 11px;
+  margin-top: 6330px;
+  min-width: 1920px;
+  padding: 0 62px;
+}
+
+.diploma-main-page .have-any-questions {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  min-height: 22px;
+  min-width: 195px;
+}
+
+.diploma-main-page .email {
+  height: 25px;
+  margin-left: 34px;
+  width: 25px;
+}
+
+.diploma-main-page .infouecampuscom {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 10px;
+  min-height: 22px;
+  min-width: 157px;
+}
+
+.diploma-main-page .phone {
+  height: 25px;
+  margin-left: 21px;
+  width: 25px;
+}
+
+.diploma-main-page .phone-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 11px;
+  min-height: 22px;
+  min-width: 128px;
+}
+
+.diploma-main-page .overlap-group14 {
+  height: 411px;
+  margin-right: 11px;
+  margin-top: 5px;
+  position: relative;
+  width: 1920px;
+}
+
+.diploma-main-page .overlap-group7 {
+  height: 411px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.diploma-main-page .x1-9d8512e0-removebg-preview-1 {
+  left: 870px;
+  position: absolute;
+  top: 0;
+}
+
+.diploma-main-page .rectangle-6 {
+  background-color: var(--royal-purple);
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 87px;
+  width: 1920px;
+}
+
+.diploma-main-page .group-453 {
+  height: 329px;
+  left: 0;
+  position: absolute;
+  top: 82px;
+  width: 1920px;
+}
+
+.diploma-main-page .accredited-diplomas {
+  height: 114px;
+  left: 549px;
+  letter-spacing: 1.00px;
+  line-height: 72.2px;
+  position: absolute;
+  text-align: center;
+  top: 172px;
+  width: 896px;
+}
+
+.diploma-main-page .empower-your-future {
+  left: 432px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 290px;
+  width: 1077px;
+}
+
+.diploma-main-page .group {
+  height: 41px;
+  left: 181px;
+  position: absolute;
+  top: 317px;
+  width: 99px;
+}
+
+.diploma-main-page .programs {
+  left: 62px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.diploma-main-page .diplomas {
+  left: 208px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.diploma-main-page .scholarships {
+  left: 504px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.diploma-main-page .about-us {
+  left: 357px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.diploma-main-page .login {
+  left: 1611px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.diploma-main-page .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--bright-gray);
+  border-radius: 10px;
+  display: flex;
+  height: 49px;
+  left: 1698px;
+  min-width: 160px;
+  padding: 12px 40px;
+  position: absolute;
+  top: 18px;
+}
+
+.diploma-main-page .place {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.diploma-main-page .sort-left {
+  height: 15px;
+  left: 160px;
+  position: absolute;
+  top: 35px;
+  width: 15px;
+}
+
+.diploma-main-page .sort-left-1 {
+  left: 451px;
+}
+
+.diploma-main-page .sort-left-2 {
+  left: 304px;
+}
+
+.diploma-main-page .overlap-group4 {
+  align-items: center;
+  background-color: var(--gallery);
+  display: flex;
+  flex-direction: column;
+  gap: 95px;
+  margin-top: 1567px;
+  min-height: 490px;
+  width: 1920px;
+}
+
+.diploma-main-page .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 73px;
+  min-width: 1796px;
+}
+
+.diploma-main-page .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 95px;
+  height: 261px;
+  min-width: 1107px;
+}
+
+.diploma-main-page .flex-col-1 {
+  gap: 2px;
+  min-height: 261px;
+  width: 864px;
+}
+
+.diploma-main-page .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 187px;
+  min-width: 864px;
+}
+
+.diploma-main-page .flex-col-2 {
+  align-self: flex-end;
+  gap: 15px;
+  min-height: 186px;
+  width: 497px;
+}
+
+.diploma-main-page .at-ue-campus-we-unde {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 88px;
+  width: 497px;
+}
+
+.diploma-main-page .flex-col-3 {
+  margin-left: 74px;
+  min-height: 170px;
+  width: 76px;
+}
+
+.diploma-main-page .courses {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 76px;
+}
+
+.diploma-main-page .bachelors-masters-dba {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 19px;
+  min-height: 66px;
+}
+
+.diploma-main-page .apply {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 35px;
+  min-height: 25px;
+  width: 76px;
+}
+
+.diploma-main-page .flex-col-4 {
+  margin-left: 95px;
+  margin-top: 2px;
+  min-height: 170px;
+  width: 122px;
+}
+
+.diploma-main-page .programs-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 92px;
+}
+
+.diploma-main-page .ppa-walsh-college-diploma {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 19px;
+  min-height: 66px;
+}
+
+.diploma-main-page .online-study {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 35px;
+  min-height: 25px;
+  width: 122px;
+}
+
+.diploma-main-page .flex-row-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 72px;
+  min-width: 857px;
+}
+
+.diploma-main-page .overlap-group13 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.diploma-main-page .you-tube {
+  height: 25px;
+  width: 25px;
+}
+
+.diploma-main-page .linked-in-circled {
+  height: 50px;
+  margin-left: 10px;
+  width: 50px;
+}
+
+.diploma-main-page .overlap-group12 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.diploma-main-page .tik-tok {
+  height: 25px;
+  width: 25px;
+}
+
+.diploma-main-page .overlap-group10 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  margin-left: 15px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.diploma-main-page .twitter-x {
+  height: 25px;
+  width: 25px;
+}
+
+.diploma-main-page .instagram-circle {
+  height: 50px;
+  margin-left: 12px;
+  width: 50px;
+}
+
+.diploma-main-page .facebook {
+  height: 50px;
+  margin-left: 7px;
+  width: 50px;
+}
+
+.diploma-main-page .fees-apply-now {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 247px;
+  min-height: 44px;
+  min-width: 81px;
+}
+
+.diploma-main-page .online-degrees-online-lms {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 90px;
+  margin-top: 2px;
+  min-height: 44px;
+}
+
+.diploma-main-page .about-us-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-top: 2px;
+  min-height: 196px;
+  width: 148px;
+}
+
+.diploma-main-page .about-us-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.diploma-main-page .about-us-faq-accredi {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 154px;
+}
+
+.diploma-main-page .flex-col-5 {
+  align-self: flex-end;
+  margin-left: 51px;
+  min-height: 259px;
+  width: 272px;
+}
+
+.diploma-main-page .contact-us {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.diploma-main-page .flex-row-5 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin-top: 19px;
+  min-width: 192px;
+}
+
+.diploma-main-page .envelope {
+  height: 25px;
+  width: 25px;
+}
+
+.diploma-main-page .infouecampuscom-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  min-width: 157px;
+}
+
+.diploma-main-page .phone-container {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin-top: 11px;
+  min-width: 163px;
+}
+
+.diploma-main-page .phone-2 {
+  height: 25px;
+  width: 25px;
+}
+
+.diploma-main-page .phone-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  min-width: 128px;
+}
+
+.diploma-main-page .image-31 {
+  height: 140px;
+  margin-top: 14px;
+  object-fit: cover;
+  width: 272px;
+}
+
+.diploma-main-page .flex-col-6 {
+  gap: 18px;
+  margin-left: 50px;
+  margin-top: 2px;
+  min-height: 82px;
+  width: 316px;
+}
+
+.diploma-main-page .newsletter {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.diploma-main-page .overlap-group9 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  gap: 81px;
+  justify-content: flex-end;
+  min-width: 316px;
+}
+
+.diploma-main-page .insert-email {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  width: 126px;
+}
+
+.diploma-main-page .overlap-group-2 {
+  background-color: var(--royal-purple);
+  border-radius: 5px;
+  gap: 9px;
+  min-width: 95px;
+}
+
+.diploma-main-page .rectangle-94 {
+  background-color: var(--royal-purple);
+  height: 39px;
+  width: 9px;
+}
+
+.diploma-main-page .sign-up {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  width: 60px;
+}
+
+.diploma-main-page .overlap-group11 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 61px;
+  min-width: 1920px;
+  padding: 19px 666px;
+}
+
+.diploma-main-page .copyright-2024-ue-c {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.diploma-main-page .rectangle-51 {
+  background-color: var(--white);
+  height: 847px;
+  margin-right: 11px;
+  margin-top: 1393px;
+  width: 1920px;
+}
+
+.diploma-main-page .group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3022px;
+  margin-left: 107px;
+  margin-top: 989px;
+  min-height: 3936px;
+  width: 964px;
+}
+
+.diploma-main-page .group-container-1 {
+  border-radius: 14px;
+  height: 457px;
+  position: relative;
+  width: 490px;
+}
+
+.diploma-main-page .group-372 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  height: 457px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 490px;
+}
+
+.diploma-main-page .group-337 {
+  height: 238px;
+  margin-left: -1537.0px;
+  margin-top: -6982px;
+  width: 464px;
+}
+
+.diploma-main-page .group-373 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  left: 13px;
+  min-height: 171px;
+  position: absolute;
+  top: 267px;
+  width: 472px;
+}
+
+.diploma-main-page .overlap-group {
+  height: 53px;
+  position: relative;
+  width: 275px;
+}
+
+.diploma-main-page .name {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.diploma-main-page .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 194px;
+  min-width: 464px;
+}
+
+.diploma-main-page .overlap-group-1 {
+  background-color: var(--hint-of-red);
+  height: 38px;
+  min-width: 38px;
+  padding: 0 8px;
+}
+
+.diploma-main-page .group-357 {
+  align-self: flex-end;
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 1087px;
+  height: 457px;
+  width: 490px;
+}
+
+.diploma-main-page .group-33 {
+  height: 238px;
+  margin-left: -1537px;
+  margin-top: -6982px;
+  width: 464px;
+}
+
+.diploma-main-page .group-354 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 267px;
+  min-height: 171px;
+  width: 472px;
+}
+
+.diploma-main-page .group-358 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 1086px;
+  height: 457px;
+  margin-left: 30px;
+  margin-top: 4468px;
+  width: 490px;
+}
+
+.diploma-main-page .flex-col-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.diploma-main-page .overlap-group-3 {
+  align-items: center;
+  display: flex;
+}
+
+.diploma-main-page .sort-left-3 {
+  height: 15px;
+  position: absolute;
+  top: 35px;
+  width: 15px;
+}
+
+.diploma-main-page .x1-9d8512e0-removebg-preview {
+  height: 83px;
+  object-fit: cover;
+  width: 180px;
+}

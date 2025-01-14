@@ -1,0 +1,1198 @@
+/* screen - article-page */
+
+.article-page {
+  background-color: var(--white);
+  height: 4847px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.article-page .overlap-group4 {
+  height: 1089px;
+  left: 0;
+  position: absolute;
+  top: 3757px;
+  width: 1920px;
+}
+
+.article-page .rectangle-51 {
+  background-color: var(--white);
+  height: 847px;
+  left: 0;
+  position: absolute;
+  top: 154px;
+  width: 1920px;
+}
+
+.article-page .rectangle-3871 {
+  background-color: var(--gallery);
+  height: 490px;
+  left: 0;
+  position: absolute;
+  top: 599px;
+  width: 1920px;
+}
+
+.article-page .x1-9d8512e0-removebg-preview-4 {
+  left: 62px;
+  top: 673px;
+}
+
+.article-page .at-ue-campus-we-unde {
+  left: 62px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 771px;
+  width: 497px;
+}
+
+.article-page .courses {
+  left: 633px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 672px;
+  width: 76px;
+}
+
+.article-page .facebook {
+  height: 50px;
+  left: 336px;
+  position: absolute;
+  top: 883px;
+  width: 50px;
+}
+
+.article-page .ellipse-801 {
+  left: 62px;
+}
+
+.article-page .ellipse-802 {
+  left: 172px;
+}
+
+.article-page .ellipse-803 {
+  left: 227px;
+}
+
+.article-page .instagram-circle {
+  height: 50px;
+  left: 279px;
+  position: absolute;
+  top: 883px;
+  width: 50px;
+}
+
+.article-page .twitter-x {
+  height: 25px;
+  left: 234px;
+  position: absolute;
+  top: 895px;
+  width: 25px;
+}
+
+.article-page .linked-in-circled {
+  height: 50px;
+  left: 112px;
+  position: absolute;
+  top: 883px;
+  width: 50px;
+}
+
+.article-page .you-tube {
+  height: 25px;
+  left: 69px;
+  position: absolute;
+  top: 895px;
+  width: 25px;
+}
+
+.article-page .tik-tok {
+  height: 25px;
+  left: 179px;
+  position: absolute;
+  top: 895px;
+  width: 25px;
+}
+
+.article-page .rectangle-3872 {
+  background-color: var(--alto);
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 1028px;
+  width: 1920px;
+}
+
+.article-page .copyright-2024-ue-c {
+  left: 666px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1047px;
+}
+
+.article-page .bachelors-masters-dba {
+  left: 633px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 716px;
+}
+
+.article-page .apply {
+  left: 633px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 817px;
+  width: 76px;
+}
+
+.article-page .fees-apply-now {
+  left: 633px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 861px;
+}
+
+.article-page .programs {
+  left: 804px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 674px;
+  width: 92px;
+}
+
+.article-page .ppa-walsh-college-diploma {
+  left: 804px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 718px;
+}
+
+.article-page .online-study {
+  left: 804px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 819px;
+  width: 122px;
+}
+
+.article-page .online-degrees-online-lms {
+  left: 804px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 863px;
+}
+
+.article-page .about-us {
+  left: 1021px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 674px;
+  width: 148px;
+}
+
+.article-page .about-us-faq-accredi {
+  left: 1021px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 716px;
+}
+
+.article-page .contact-us {
+  left: 1220px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 674px;
+  width: 148px;
+}
+
+.article-page .infouecampuscom {
+  left: 1255px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 719px;
+}
+
+.article-page .phone {
+  left: 1255px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 755px;
+}
+
+.article-page .envelope {
+  height: 25px;
+  left: 1220px;
+  position: absolute;
+  top: 718px;
+  width: 25px;
+}
+
+.article-page .newsletter {
+  left: 1542px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 674px;
+  width: 148px;
+}
+
+.article-page .phone-1 {
+  height: 25px;
+  left: 1220px;
+  position: absolute;
+  top: 754px;
+  width: 25px;
+}
+
+.article-page .image-108 {
+  height: 140px;
+  left: 1220px;
+  top: 793px;
+  width: 272px;
+}
+
+.article-page .rectangle-3873 {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 39px;
+  left: 1542px;
+  position: absolute;
+  top: 717px;
+  width: 316px;
+}
+
+.article-page .rectangle-3874 {
+  background-color: var(--royal-purple);
+  border-radius: 5px;
+  height: 39px;
+  left: 1763px;
+  position: absolute;
+  top: 717px;
+  width: 95px;
+}
+
+.article-page .rectangle-3875 {
+  background-color: var(--royal-purple);
+  height: 39px;
+  left: 1763px;
+  position: absolute;
+  top: 717px;
+  width: 9px;
+}
+
+.article-page .sign-up {
+  left: 1781px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 725px;
+  width: 60px;
+}
+
+.article-page .insert-email {
+  left: 1556px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 725px;
+  width: 126px;
+}
+
+.article-page .rectangle-3877 {
+  background-color: var(--gallery);
+  border-radius: 10px;
+  height: 520px;
+  left: 62px;
+  position: absolute;
+  top: 0;
+  width: 790px;
+}
+
+.article-page .newsletter-1 {
+  left: 123px;
+  position: absolute;
+  top: 35px;
+}
+
+.article-page .your-email-address-w {
+  left: 123px;
+  letter-spacing: 0.36px;
+  line-height: 24.9px;
+  position: absolute;
+  top: 73px;
+  width: 719px;
+}
+
+.article-page .rectangle-3878 {
+  background-color: var(--onyx);
+  height: 9px;
+  left: 123px;
+  position: absolute;
+  top: 122px;
+  width: 29px;
+}
+
+.article-page .tell-us-your-message {
+  left: 123px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 165px;
+  width: 610px;
+}
+
+.article-page .rectangle-3853 {
+  background-color: var(--onyx);
+  height: 2px;
+  left: 123px;
+  position: absolute;
+  top: 249px;
+  width: 630px;
+}
+
+.article-page .email {
+  left: 123px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 291px;
+  width: 610px;
+}
+
+.article-page .rectangle-3850 {
+  background-color: var(--onyx);
+  height: 2px;
+  left: 123px;
+  position: absolute;
+  top: 321px;
+  width: 630px;
+}
+
+.article-page .subject {
+  left: 123px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 363px;
+  width: 610px;
+}
+
+.article-page .rectangle-3852 {
+  background-color: var(--onyx);
+  height: 2px;
+  left: 123px;
+  position: absolute;
+  top: 393px;
+  width: 630px;
+}
+
+.article-page .rectangle-3879 {
+  background-color: var(--onyx);
+  border-radius: 10px;
+  height: 49px;
+  left: 123px;
+  position: absolute;
+  top: 436px;
+  width: 160px;
+}
+
+.article-page .sign-up-1 {
+  left: 166px;
+  position: absolute;
+  top: 448px;
+}
+
+.article-page .group-357 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 3427px;
+  height: 457px;
+  left: 2512px;
+  position: absolute;
+  top: 4468px;
+  width: 490px;
+}
+
+.article-page .group-33 {
+  height: 238px;
+  margin-left: -3877px;
+  margin-top: 4637px;
+  width: 464px;
+}
+
+.article-page .group-354 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 267px;
+  min-height: 171px;
+  width: 472px;
+}
+
+.article-page .overlap-group {
+  height: 53px;
+  position: relative;
+  width: 275px;
+}
+
+.article-page .name {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.article-page .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 194px;
+  min-width: 464px;
+}
+
+.article-page .overlap-group-1 {
+  align-items: center;
+  background-color: var(--hint-of-red);
+  display: flex;
+  height: 38px;
+  min-width: 38px;
+  padding: 0 8px;
+}
+
+.article-page .group-358 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 3426px;
+  height: 457px;
+  left: 3032px;
+  position: absolute;
+  top: 4468px;
+  width: 490px;
+}
+
+.article-page .group-container {
+  border-radius: 14px;
+  height: 457px;
+  left: 2038px;
+  position: absolute;
+  top: 989px;
+  width: 490px;
+}
+
+.article-page .group-372 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  height: 457px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 490px;
+}
+
+.article-page .group-337 {
+  height: 238px;
+  margin-left: -3877.0px;
+  margin-top: 4637px;
+  width: 464px;
+}
+
+.article-page .group-373 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  left: 13px;
+  min-height: 171px;
+  position: absolute;
+  top: 267px;
+  width: 472px;
+}
+
+.article-page .x1-9d8512e0-removebg-preview-1 {
+  left: 870px;
+  top: 50px;
+}
+
+.article-page .programs-1 {
+  left: 62px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 80px;
+}
+
+.article-page .diplomas {
+  left: 208px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 80px;
+}
+
+.article-page .scholarships {
+  left: 504px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 80px;
+}
+
+.article-page .about-us-1 {
+  left: 357px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 80px;
+}
+
+.article-page .login {
+  left: 1611px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 80px;
+}
+
+.article-page .overlap-group10 {
+  align-items: flex-start;
+  background-color: var(--bright-gray);
+  border-radius: 10px;
+  display: flex;
+  height: 49px;
+  left: 1698px;
+  min-width: 160px;
+  padding: 12px 40px;
+  position: absolute;
+  top: 68px;
+}
+
+.article-page .place {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.article-page .sort-left {
+  height: 15px;
+  left: 160px;
+  position: absolute;
+  top: 85px;
+  width: 15px;
+}
+
+.article-page .sort-left-1 {
+  left: 451px;
+}
+
+.article-page .sort-left-2 {
+  left: 304px;
+}
+
+.article-page .rectangle-6 {
+  background-color: var(--royal-purple);
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 137px;
+  width: 1920px;
+}
+
+.article-page .overlap-group7 {
+  align-items: center;
+  background-color: var(--royal-purple);
+  display: flex;
+  height: 45px;
+  left: 0;
+  min-width: 1920px;
+  padding: 0 62px;
+  position: absolute;
+  top: 0;
+}
+
+.article-page .have-any-questions {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  min-height: 22px;
+  min-width: 195px;
+}
+
+.article-page .email-1 {
+  height: 25px;
+  margin-left: 34px;
+  width: 25px;
+}
+
+.article-page .infouecampuscom-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 10px;
+  min-height: 22px;
+  min-width: 157px;
+}
+
+.article-page .phone-2 {
+  height: 25px;
+  margin-left: 21px;
+  width: 25px;
+}
+
+.article-page .phone-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 11px;
+  min-height: 22px;
+  min-width: 128px;
+}
+
+.article-page .latest-posts {
+  left: 1238px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 689px;
+  width: 649px;
+}
+
+.article-page .span1 {
+  color: var(--onyx);
+  font-family: var(--font-family-montserrat);
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.article-page .lack-of-face-to-face {
+  left: 62px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 231px;
+  width: 1084px;
+}
+
+.article-page .image-83 {
+  height: 612px;
+  left: 58px;
+  top: 410px;
+  width: 1112px;
+}
+
+.article-page .image-30 {
+  height: 40px;
+  left: 57px;
+  top: 337px;
+  width: 40px;
+}
+
+.article-page .ue-campus {
+  left: 112px;
+  letter-spacing: 0.48px;
+  line-height: 33.2px;
+  position: absolute;
+  top: 340px;
+  white-space: nowrap;
+}
+
+.article-page .date {
+  left: 334px;
+  letter-spacing: 0.48px;
+  line-height: 33.2px;
+  position: absolute;
+  top: 341px;
+  white-space: nowrap;
+}
+
+.article-page .address {
+  left: 614px;
+  letter-spacing: 0.48px;
+  line-height: 33.2px;
+  position: absolute;
+  top: 339px;
+  white-space: nowrap;
+}
+
+.article-page .image-25 {
+  height: 35px;
+  left: 284px;
+  top: 342px;
+  width: 35px;
+}
+
+.article-page .image-27 {
+  height: 40px;
+  left: 559px;
+  top: 337px;
+  width: 40px;
+}
+
+.article-page .the-phrase-new-norm {
+  left: 62px;
+  letter-spacing: 0.36px;
+  line-height: 24.9px;
+  position: absolute;
+  top: 1058px;
+  width: 1104px;
+}
+
+.article-page .however-e-learning {
+  left: 62px;
+  letter-spacing: 0.36px;
+  line-height: 24.9px;
+  position: absolute;
+  top: 1488px;
+  width: 1104px;
+}
+
+.article-page .needs-of-e-learning-still {
+  left: 62px;
+  letter-spacing: 0.48px;
+  line-height: 33.2px;
+  position: absolute;
+  top: 1440px;
+  width: 1082px;
+}
+
+.article-page .the-e-learning-techn {
+  left: 62px;
+  letter-spacing: 0.36px;
+  line-height: 24.9px;
+  position: absolute;
+  top: 1793px;
+  width: 1104px;
+}
+
+.article-page .social-isolation-bro {
+  left: 62px;
+  letter-spacing: 0.48px;
+  line-height: 33.2px;
+  position: absolute;
+  top: 1745px;
+  width: 1082px;
+}
+
+.article-page .numerous-drawbacks-o {
+  left: 62px;
+  letter-spacing: 0.36px;
+  line-height: 24.9px;
+  position: absolute;
+  top: 2883px;
+  width: 1104px;
+}
+
+.article-page .lack-of-face-to-face-1 {
+  left: 62px;
+  letter-spacing: 0.48px;
+  line-height: 33.2px;
+  position: absolute;
+  top: 2835px;
+  width: 1082px;
+}
+
+.article-page .not-all-study-topics {
+  left: 62px;
+  letter-spacing: 0.36px;
+  line-height: 24.9px;
+  position: absolute;
+  top: 3163px;
+  width: 1104px;
+}
+
+.article-page .only-a-few-subjects-may-use-e-learning {
+  left: 62px;
+  letter-spacing: 0.48px;
+  line-height: 33.2px;
+  position: absolute;
+  top: 3115px;
+  width: 1082px;
+}
+
+.article-page .every-learning-appro {
+  left: 62px;
+  letter-spacing: 0.36px;
+  line-height: 24.9px;
+  position: absolute;
+  top: 3418px;
+  width: 1104px;
+}
+
+.article-page .which-is-better-onl {
+  left: 62px;
+  letter-spacing: 0.48px;
+  line-height: 33.2px;
+  position: absolute;
+  top: 3370px;
+  width: 1082px;
+}
+
+.article-page .while-some-of-the-mo {
+  left: 62px;
+  letter-spacing: 0.36px;
+  line-height: 24.9px;
+  position: absolute;
+  top: 2553px;
+  width: 1104px;
+}
+
+.article-page .online-educators-fre {
+  left: 62px;
+  letter-spacing: 0.48px;
+  line-height: 33.2px;
+  position: absolute;
+  top: 2505px;
+  width: 1082px;
+}
+
+.article-page .one-of-the-main-caus {
+  left: 62px;
+  letter-spacing: 0.36px;
+  line-height: 24.9px;
+  position: absolute;
+  top: 2098px;
+  width: 1096px;
+}
+
+.article-page .surname {
+  left: 62px;
+  letter-spacing: 0.48px;
+  line-height: 33.2px;
+  position: absolute;
+  top: 2050px;
+  width: 1082px;
+}
+
+.article-page .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  left: 1238px;
+  min-height: 407px;
+  padding: 46px 2px;
+  position: absolute;
+  top: 232px;
+  width: 620px;
+}
+
+.article-page .newsletter-2 {
+  margin-left: 55px;
+  margin-top: 20px;
+}
+
+.article-page .sign-up-our-newslett {
+  align-self: center;
+  letter-spacing: 0.36px;
+  line-height: 24.9px;
+  margin-top: 5px;
+  min-height: 50px;
+  width: 506px;
+}
+
+.article-page .rectangle-15 {
+  background-color: var(--white);
+  height: 9px;
+  margin-left: 55px;
+  margin-top: 22px;
+  width: 29px;
+}
+
+.article-page .email-2 {
+  align-self: flex-end;
+  letter-spacing: 0.36px;
+  line-height: 24.9px;
+  margin-top: 35px;
+  min-height: 25px;
+  width: 561px;
+}
+
+.article-page .rectangle-3849 {
+  align-self: center;
+  background-color: var(--white);
+  height: 2px;
+  margin-top: 5px;
+  width: 506px;
+}
+
+.article-page .overlap-group14 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 49px;
+  margin-left: 55px;
+  margin-top: 60px;
+  min-width: 160px;
+  padding: 12px 43px;
+}
+
+.article-page .sign-up-2 {
+  min-height: 22px;
+}
+
+.article-page .rectangle-3876 {
+  background-color: var(--gigas);
+  height: 9px;
+  left: 1238px;
+  position: absolute;
+  top: 754px;
+  width: 29px;
+}
+
+.article-page .image-107 {
+  height: 241px;
+  left: 1234px;
+  top: 808px;
+  width: 290px;
+}
+
+.article-page .decoding-success-un {
+  left: 1536px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 840px;
+  width: 322px;
+}
+
+.article-page .date-1 {
+  left: 1536px;
+  top: 807px;
+}
+
+.article-page .overlap-group11 {
+  height: 40px;
+  left: 1536px;
+  position: absolute;
+  top: 1001px;
+  width: 192px;
+}
+
+.article-page .read-more {
+  left: 0;
+  letter-spacing: 0.36px;
+  line-height: 24.9px;
+  position: absolute;
+  top: 6px;
+  width: 192px;
+}
+
+.article-page .image-1 {
+  height: 40px;
+  left: 113px;
+  top: 0;
+  width: 40px;
+}
+
+.article-page .an-organizations-st {
+  left: 1536px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 913px;
+  width: 322px;
+}
+
+.article-page .image-109 {
+  height: 241px;
+  left: 1232px;
+  top: 1086px;
+  width: 290px;
+}
+
+.article-page .decoding-success-un-1 {
+  left: 1534px;
+  top: 1118px;
+}
+
+.article-page .date-2 {
+  left: 1534px;
+  top: 1085px;
+}
+
+.article-page .overlap-group8 {
+  height: 40px;
+  left: 1534px;
+  position: absolute;
+  top: 1279px;
+  width: 192px;
+}
+
+.article-page .an-organizations-st-1 {
+  left: 1534px;
+  top: 1191px;
+}
+
+.article-page .image-111 {
+  height: 241px;
+  left: 1232px;
+  top: 1364px;
+  width: 290px;
+}
+
+.article-page .decoding-success-un-2 {
+  left: 1534px;
+  top: 1396px;
+}
+
+.article-page .date-3 {
+  left: 1534px;
+  top: 1363px;
+}
+
+.article-page .overlap-group13 {
+  height: 40px;
+  left: 1534px;
+  position: absolute;
+  top: 1557px;
+  width: 192px;
+}
+
+.article-page .an-organizations-st-2 {
+  left: 1534px;
+  top: 1469px;
+}
+
+.article-page .image-113 {
+  height: 241px;
+  left: 1234px;
+  top: 1642px;
+  width: 290px;
+}
+
+.article-page .decoding-success-un-3 {
+  left: 1536px;
+  top: 1674px;
+}
+
+.article-page .date-4 {
+  left: 1536px;
+  top: 1641px;
+}
+
+.article-page .overlap-group12 {
+  height: 40px;
+  left: 1536px;
+  position: absolute;
+  top: 1835px;
+  width: 192px;
+}
+
+.article-page .an-organizations-st-3 {
+  left: 1536px;
+  top: 1747px;
+}
+
+.article-page .image-115 {
+  height: 241px;
+  left: 1234px;
+  top: 1920px;
+  width: 290px;
+}
+
+.article-page .decoding-success-un-4 {
+  left: 1536px;
+  top: 1952px;
+}
+
+.article-page .date-5 {
+  left: 1536px;
+  top: 1919px;
+}
+
+.article-page .overlap-group9 {
+  height: 40px;
+  left: 1536px;
+  position: absolute;
+  top: 2113px;
+  width: 192px;
+}
+
+.article-page .an-organizations-st-4 {
+  left: 1536px;
+  top: 2025px;
+}
+
+.article-page .an-organizations-st-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  width: 322px;
+}
+
+.article-page .date-6 {
+  letter-spacing: 0.40px;
+  line-height: 27.7px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.article-page .decoding-success-un-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  width: 322px;
+}
+
+.article-page .ellipse {
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  height: 40px;
+  position: absolute;
+  top: 888px;
+  width: 40px;
+}
+
+.article-page .image {
+  object-fit: cover;
+  position: absolute;
+}
+
+.article-page .newsletter-3 {
+  letter-spacing: 0.48px;
+  line-height: 33.2px;
+  white-space: nowrap;
+}
+
+.article-page .sign-up-3 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.article-page .sort-left-3 {
+  height: 15px;
+  position: absolute;
+  top: 85px;
+  width: 15px;
+}
+
+.article-page .x1-9d8512e0-removebg-preview {
+  height: 83px;
+  object-fit: cover;
+  position: absolute;
+  width: 180px;
+}

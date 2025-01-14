@@ -1,0 +1,423 @@
+/* screen - contact-us */
+
+.contact-us {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 140px;
+  height: 2697px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.contact-us .overlap-group4 {
+  height: 389px;
+  margin-left: -208px;
+  margin-top: 140px;
+  position: relative;
+  width: 2333px;
+}
+
+.contact-us .group-451 {
+  height: 389px;
+  left: 208px;
+  position: absolute;
+  top: 0;
+  width: 1919px;
+}
+
+.contact-us .title {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 121.5px;
+  position: absolute;
+  text-align: center;
+  top: 101px;
+  width: 2333px;
+}
+
+.contact-us .wed-love-to-hear-fr {
+  left: 691px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 223px;
+  width: 951px;
+}
+
+.contact-us .flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 4256px;
+  min-width: 3522px;
+}
+
+.contact-us .flex-col {
+  align-self: flex-start;
+  flex-direction: column;
+  min-height: 4089px;
+  width: 1920px;
+}
+
+.contact-us .overlap-group3 {
+  height: 841px;
+  margin-left: 2.0px;
+  position: relative;
+  width: 1798px;
+}
+
+.contact-us .rectangle-3846 {
+  background-color: var(--royal-purple);
+  border-radius: 10px;
+  height: 841px;
+  left: 1053px;
+  position: absolute;
+  top: 0;
+  width: 745px;
+}
+
+.contact-us .contact-us-and-tell {
+  left: 1110px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 140px;
+  width: 610px;
+}
+
+.contact-us .full-name {
+  left: 1110px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 304px;
+  width: 610px;
+}
+
+.contact-us .were-here-for-you {
+  left: 1110px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+}
+
+.contact-us .rectangle-3849 {
+  background-color: var(--white);
+  height: 2px;
+  left: 1110px;
+  position: absolute;
+  top: 334px;
+  width: 630px;
+}
+
+.contact-us .email {
+  left: 1110px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 376px;
+  width: 610px;
+}
+
+.contact-us .rectangle-3850 {
+  background-color: var(--white);
+  height: 2px;
+  left: 1110px;
+  position: absolute;
+  top: 406px;
+  width: 630px;
+}
+
+.contact-us .subject {
+  left: 1110px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 448px;
+  width: 610px;
+}
+
+.contact-us .rectangle-3852 {
+  background-color: var(--white);
+  height: 2px;
+  left: 1110px;
+  position: absolute;
+  top: 478px;
+  width: 630px;
+}
+
+.contact-us .tell-us-your-message {
+  left: 1110px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 520px;
+  width: 610px;
+}
+
+.contact-us .rectangle-3853 {
+  background-color: var(--white);
+  height: 2px;
+  left: 1110px;
+  position: absolute;
+  top: 604px;
+  width: 630px;
+}
+
+.contact-us .rectangle-3851 {
+  background-color: var(--white);
+  height: 9px;
+  left: 1110px;
+  position: absolute;
+  top: 250px;
+  width: 29px;
+}
+
+.contact-us .rectangle-3854 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 60px;
+  left: 1110px;
+  position: absolute;
+  top: 671px;
+  width: 630px;
+}
+
+.contact-us .lets-get-started {
+  left: 1346px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 689px;
+}
+
+.contact-us .image-85 {
+  object-fit: cover;
+}
+
+.contact-us .image-86 {
+  background-color: var(--royal-purple-2);
+  border-radius: 10px;
+}
+
+.contact-us .ellipse-798 {
+  background-color: var(--white-4);
+  top: 110px;
+}
+
+.contact-us .location {
+  height: 40px;
+  left: 80px;
+  position: absolute;
+  top: 125px;
+  width: 40px;
+}
+
+.contact-us .ellipse-799 {
+  background-color: var(--white);
+  top: 202px;
+}
+
+.contact-us .ellipse-800 {
+  background-color: var(--white);
+  top: 294px;
+}
+
+.contact-us .email-1 {
+  height: 40px;
+  left: 80px;
+  position: absolute;
+  top: 217px;
+  width: 40px;
+}
+
+.contact-us .phone {
+  height: 40px;
+  left: 80px;
+  position: absolute;
+  top: 309px;
+  width: 40px;
+}
+
+.contact-us .surname {
+  left: 168px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 109px;
+  width: 610px;
+}
+
+.contact-us .suit-146-foxhunter-d {
+  left: 168px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 135px;
+  width: 534px;
+}
+
+.contact-us .email-us {
+  left: 168px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 212px;
+  width: 610px;
+}
+
+.contact-us .infouecampuscom {
+  left: 168px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 238px;
+  width: 408px;
+}
+
+.contact-us .call-us {
+  left: 168px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 304px;
+  width: 610px;
+}
+
+.contact-us .phone-1 {
+  left: 168px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 330px;
+  width: 408px;
+}
+
+.contact-us .rectangle-3855 {
+  background-color: var(--royal-purple);
+  height: 841px;
+  left: 1043px;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.contact-us .group-454 {
+  height: 487px;
+  margin-top: 210px;
+  width: 1918px;
+}
+
+.contact-us .rectangle-51 {
+  background-color: var(--white);
+  height: 847px;
+  margin-top: 1704px;
+  width: 1920px;
+}
+
+.contact-us .group-356 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  height: 457px;
+  margin-left: 72px;
+  width: 490px;
+}
+
+.contact-us .group-33 {
+  height: 238px;
+  margin-left: -12956px;
+  margin-top: 7756px;
+  width: 464px;
+}
+
+.contact-us .group-357 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 12506px;
+  height: 457px;
+  margin-left: 30px;
+  width: 490px;
+}
+
+.contact-us .group-354 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 267px;
+  min-height: 171px;
+  width: 472px;
+}
+
+.contact-us .overlap-group2 {
+  height: 53px;
+  position: relative;
+  width: 275px;
+}
+
+.contact-us .name {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.contact-us .flex-row {
+  gap: 194px;
+  min-width: 464px;
+}
+
+.contact-us .overlap-group {
+  align-items: center;
+  background-color: var(--hint-of-red);
+  display: flex;
+  height: 38px;
+  min-width: 38px;
+  padding: 0 8px;
+}
+
+.contact-us .group-358 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 12505px;
+  height: 457px;
+  margin-left: 30px;
+  width: 490px;
+}
+
+.contact-us .ellipse {
+  border-radius: 35px;
+  height: 70px;
+  left: 65px;
+  position: absolute;
+  width: 70px;
+}
+
+.contact-us .flex {
+  align-items: center;
+  display: flex;
+}
+
+.contact-us .image {
+  height: 841px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1053px;
+}

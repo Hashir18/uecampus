@@ -1820,35 +1820,39 @@
   .about-us {
     width: 100%;
     overflow: hidden;
-    padding: 0 10px;
+    padding: 0 15px;
+    display: flex;
+    flex-direction: column;
   }
 
   .about-us .overlap-group14 {
     flex-direction: column;
-    padding: 10px;
+    padding: 20px;
     text-align: center;
+    align-items: center;
   }
 
   .about-us .have-any-questions, .about-us .infouecampuscom, .about-us .phone-1 {
-    font-size: 12px;
+    font-size: 14px;
     margin: 5px 0;
   }
 
   .about-us .navbar {
-    flex-wrap: wrap;
-    justify-content: center;
-    padding: 8px;
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
   }
 
   .about-us .navbar-link {
-    margin: 4px 8px;
-    font-size: 14px;
+    margin: 5px 0;
+    font-size: 16px;
+    text-align: center;
   }
 
   .about-us .overlap-group19 {
     width: 100%;
+    margin: 10px 0;
     text-align: center;
-    margin: 8px 0;
   }
 
   .about-us .flex-row-1, .about-us .flex-row-2 {
@@ -1858,31 +1862,34 @@
   }
 
   .about-us .about-us-1 {
-    font-size: 28px;
-    line-height: 36px;
+    font-size: 30px;
+    line-height: 40px;
+    margin-top: 10px;
   }
 
   .about-us .we-empower-learners {
     font-size: 14px;
     width: 100%;
+    margin-top: 5px;
   }
 
   .about-us .unlock-the-power-of {
     font-size: 16px;
+    line-height: 1.5;
     width: 100%;
-    line-height: 1.4;
-    margin-top: 15px;
+    margin-top: 10px;
   }
 
   .about-us .overlap-group-container {
     flex-direction: column;
+    align-items: center;
     width: 100%;
     margin-bottom: 15px;
   }
 
   .about-us .overlap-group6, .about-us .overlap-group9, .about-us .overlap-group12 {
-    width: 90%;
-    margin: 8px auto;
+    width: 95%;
+    margin: 10px auto;
   }
 
   .about-us .group-container {
@@ -1900,8 +1907,8 @@
   }
 
   .about-us .our-core-values {
-    font-size: 20px;
-    margin: 15px 0;
+    font-size: 24px;
+    margin: 20px 0;
     text-align: center;
   }
 
@@ -1909,35 +1916,38 @@
     flex-direction: column;
     align-items: center;
     width: 100%;
-    margin: 15px 0;
+    margin: 20px 0;
   }
 
   .about-us .overlap-group1, .about-us .overlap-group7, .about-us .overlap-group13 {
-    width: 90%;
-    margin: 8px auto;
+    width: 95%;
+    margin: 10px auto;
   }
 
   .about-us .meet-our-team {
-    font-size: 20px;
+    font-size: 22px;
     text-align: center;
+    margin-top: 20px;
   }
 
   .about-us .overlap-group8 {
-    padding: 10px;
+    padding: 15px;
     text-align: center;
   }
 
   .about-us .have-any-questions-1 {
-    font-size: 20px;
+    font-size: 22px;
   }
 
   .about-us .visit-our-faq-page-o {
     font-size: 14px;
     line-height: 1.4;
+    margin-top: 10px;
   }
 
   .about-us .contact-us {
     font-size: 18px;
+    margin-top: 10px;
   }
 
   .about-us .flex-row-3 {
@@ -1959,12 +1969,14 @@
 
   .about-us .overlap-group20 {
     flex-direction: column;
-    padding: 8px;
+    align-items: center;
+    padding: 10px;
   }
 
   .about-us .copyright-2024-ue-c {
-    font-size: 10px;
+    font-size: 12px;
     text-align: center;
+    margin-top: 10px;
   }
 
   img {
